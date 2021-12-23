@@ -1,1 +1,17 @@
-{}
+{
+  "nav.home": "Home",
+  "nav.admin": "Admin Panel",
+  "nav.skins": "Skins",
+  "nav.capes": "Capes",
+  "nav.ofCape": "OptiFine Capes",
+  "nav.other": "Other...",
+  "nav.other.following": "Following",
+  "nav.other.discord": "Discord",
+  "nav.other.privacy": "Privacy Policy",
+  "nav.other.contact": "Contact",
+  "nav.search.placeholder": "Username / UUID",
+  "nav.search.button": "Search",
+  "nav.dropdown.profile": "Your Profile",
+  "nav.dropdown.settings": "Settings",
+  "nav.dropdown.signout": "Sign out"
+}
