@@ -14,5 +14,39 @@
   "nav.search.button": "Search",
   "nav.dropdown.profile": "Your Profile",
   "nav.dropdown.settings": "Settings",
-  "nav.dropdown.signout": "Sign out"
+  "nav.dropdown.signout": "Sign out",
+  "home.div": [
+    {
+      "html": "If you find any bugs, you can report them to our new <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!"
+    },
+    {
+      "html": "<a href=\"/discord\" class=\"font-semibold\">If you join the Discord server, you can get a emoji for your Minecraft Profile. Make sure you have a LivzMC account and your Minecraft Profile is linked.</a>"
+    }
+  ],
+  "home.faq": [
+    {
+      "q": "Q: What information is being saved regarding Minecraft accounts?",
+      "a": "A: Only things that are saved are: Username, Username History, Skins, Mojang / OptiFine Capes. Really other than that, there is nothing else being stored."
+    },
+    {
+      "q": "Q: Can My Username History be Hidden?",
+      "a": "A: Yes. Since LivzMC Archives the name history of accounts, if Mojang deletes your name history. <a href=\"/contact\" class=\"text-indigo-500\">Contact us and we are willing to hide it.</a>"
+    },
+    {
+      "q": "Q: Can I hide my skin history and Cape history?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Log in</a> and claim your Minecraft account, then you can hide skins / capes."
+    },
+    {
+      "q": "Q: How are OptiFine banner capes cached?",
+      "a": "A: They are cached the same way as skins and Mojang capes are! I have a queue of OptiFine Capes and I manaully edit them after a certain amount of time."
+    },
+    {
+      "q": "Q: Can I claim my Minecraft Account?",
+      "a": "A: Yes! You can claim accounts by making a LivzMC Account <a href=\"/account\" class=\"text-indigo-500\">here!</a>"
+    },
+    {
+      "q": "Q: Why aren't LabyMod or MinecraftCapes not caching?",
+      "a": "A: You have to be <a href=\"/account/login\">logged in</a>. If you are logged in and you are still having any issue, please <a href=\"mailto:kaiaf@protonmail.com\">contact me</a>."
+    }
+  ]
 }
