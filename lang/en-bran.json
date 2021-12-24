@@ -1,0 +1,52 @@
+{
+  "lang": "en-bran",
+  "nav.home": "Bark",
+  "nav.admin": "Bark Bark",
+  "nav.skins": "Barks",
+  "nav.capes": "Barks",
+  "nav.ofCape": "Bark Barks",
+  "nav.other": "Bark...",
+  "nav.other.following": "Bark",
+  "nav.other.discord": "Bark",
+  "nav.other.privacy": "Bark Bark",
+  "nav.other.contact": "Bark",
+  "nav.search.placeholder": "Bark / Bark",
+  "nav.search.button": "Bark",
+  "nav.dropdown.profile": "Bark Bark",
+  "nav.dropdown.settings": "Barks",
+  "nav.dropdown.signout": "Bark Bark",
+  "home.div": [
+    {
+      "html": "Bark bark bark bark bark, bark bark bark bark bark bark bark <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Bark bark</a>! Yark bark bark bark bark barks / barks!"
+    },
+    {
+      "html": "<a href=\"/discord\" class=\"font-semibold\">Bark bark bark bark Bark bark, bark bark bark bark bark bark bark Bark Bark. Bark bark bark bark bark LivzMC bark bark bark Bark Bark bark bark.</a>"
+    }
+  ],
+  "home.faq": [
+    {
+      "q": "Q: Bark bark bark bark bark bark Bark barks?",
+      "a": "A: Bark barks bark bark bark bark: Bark, Bark Bark, Barks, Bark / Bark Barks. Bark bark bark bark, bark bark bark bark bark bark."
+    },
+    {
+      "q": "Q: Bark Bark Bark Bark bark Bark?",
+      "a": "A: Bark. Bark LivzMC Bark bark bark bark bark barks, bark Bark bark bark bark. <a href=\"/contact\" class=\"text-indigo-500\">Bark bark bark bark bark bark bark.</a>"
+    },
+    {
+      "q": "Q: Bark Bark bark bark bark bark Bark bark?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Bark bark</a> bark bark bark Bark bark, bark bark bark barks / barks."
+    },
+    {
+      "q": "Q: Bark bark Bark bark bark bark?",
+      "a": "A: Bark bark bark bark bark bark Bark barks bark! Bark bark bark bark Bark Barks bark Bark bark bark bark bark bark bark bark."
+    },
+    {
+      "q": "Q: Bark Bark bark bark Bark Bark?",
+      "a": "A: Bark! Bark bark bark barks bark bark bark LivzMC Bark <a href=\"/account\" class=\"text-indigo-500\">bark!</a>"
+    },
+    {
+      "q": "Q: Bark barkn't Bark bark BarkBarks bark bark?",
+      "a": "A: Bark bark bark <a href=\"/account/login\">barked bark</a>. Bark bark barked bark bark bark bark bark bark, bark <a href=\"mailto:kaiaf@protonmail.com\">bark bark</a>."
+    }
+  ]
+}
