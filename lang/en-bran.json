@@ -48,5 +48,11 @@
       "q": "Q: Bark barkn't Bark bark BarkBarks bark bark?",
       "a": "A: Bark bark bark <a href=\"/account/login\">barked bark</a>. Bark bark barked bark bark bark bark bark bark, bark <a href=\"mailto:kaiaf@protonmail.com\">bark bark</a>."
     }
-  ]
+  ],
+  "server.version": "Bark",
+  "server.online.players": "Bar Barks",
+  "server.last.updated": "Bark Barked",
+  "server.likes": "Bark Barks",
+  "server.past.members": "Bark Bark Barks",
+  "server.no.users.found": "Bark Barks Bark."
 }

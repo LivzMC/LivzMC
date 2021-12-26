@@ -48,5 +48,11 @@
       "q": "Q: Why aren't LabyMod or MinecraftCapes not caching?",
       "a": "A: You have to be <a href=\"/account/login\">logged in</a>. If you are logged in and you are still having any issue, please <a href=\"mailto:kaiaf@protonmail.com\">contact me</a>."
     }
-  ]
+  ],
+  "server.version": "Version",
+  "server.online.players": "Online Players",
+  "server.last.updated": "Last Updated",
+  "server.likes": "Server Likes",
+  "server.past.members": "Past Server Members",
+  "server.no.users.found": "No Users Found."
 }
