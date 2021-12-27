@@ -1,5 +1,9 @@
 {
+  "authors": [
+    "*"
+  ],
   "lang": "en-us",
+  "title": "English",
   "nav.home": "Home",
   "nav.admin": "Admin Panel",
   "nav.skins": "Skins",

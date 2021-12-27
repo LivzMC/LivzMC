@@ -1,5 +1,9 @@
 {
+  "authors": [
+    "Bisou"
+  ],
   "lang": "fr-ca",
+  "title": "Français (Canadian)",
   "nav.home": "Accueil",
   "nav.admin": "Panneau d'administration",
   "nav.skins": "Skins",

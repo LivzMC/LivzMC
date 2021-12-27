@@ -1,5 +1,9 @@
 {
+  "authors": [
+    "KaiAF"
+  ],
   "lang": "en-bran",
+  "title": "Bark (Brandy)",
   "nav.home": "Bark",
   "nav.admin": "Bark Bark",
   "nav.skins": "Barks",
