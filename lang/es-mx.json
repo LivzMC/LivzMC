@@ -1,6 +1,6 @@
 {
-  "lang": "en-es",
-  "nav.home": "Casa",
+  "lang": "es-mx",
+  "nav.home": "Página principal",
   "nav.admin": "Panel de administrador",
   "nav.skins": "Pieles",
   "nav.capes": "Capas",
@@ -10,7 +10,7 @@
   "nav.other.discord": "Discord",
   "nav.other.privacy": "Política de privacidad",
   "nav.other.contact": "Contacto",
-  "nav.search.placeholder": "Username / UUID",
+  "nav.search.placeholder": "Nombre / UUID",
   "nav.search.button": "Búsqueda",
   "nav.dropdown.profile": "Tu perfil",
   "nav.dropdown.settings": "Ajustes",
