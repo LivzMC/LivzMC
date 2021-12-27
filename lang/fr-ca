@@ -1,0 +1,58 @@
+{
+  "lang": "fr-ca",
+  "nav.home": "Accueil",
+  "nav.admin": "Panneau d'administration",
+  "nav.skins": "Skins",
+  "nav.capes": "Capes",
+  "nav.ofCape": "Capes OptiFine",
+  "nav.other": "Autres...",
+  "nav.other.following": "Following",
+  "nav.other.discord": "Discord",
+  "nav.other.privacy": "Politique de confidentialité",
+  "nav.other.contact": "Contact",
+  "nav.search.placeholder": "Pseudos / UUID",
+  "nav.search.button": "Recherche",
+  "nav.dropdown.profile": "Votre profil",
+  "nav.dropdown.settings": "Paramètres",
+  "nav.dropdown.signout": "Déconnecter",
+  "home.div": [
+    {
+      "html": "Si vous trouvez des bogues, vous pouvez les signaler à notre nouveau <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Traqueur de problèmes</a>! Vous pouvez également suggérer de nouvelles fonctionnalités / modifications!"
+    },
+    {
+      "html": "<a href=\"/discord\" class=\"font-semibold\">Si vous rejoignez le serveur Discord, vous pouvez obtenir un emoji pour votre profil Minecraft. Assurez-vous d'avoir un compte LivzMC et votre profil Minecraft est lié.</a>"
+    }
+  ],
+  "home.faq": [
+    {
+      "q": "Q: Quelles informations sont enregistrées concernant les comptes Minecraft?",
+      "a": "R: Les seules choses qui sont enregistrées sont le nom d'utilisateur, l'historique du nom d'utilisateur, les skins, les capes Mojang / OptiFine. Vraiment à part cela, il n'y a rien d'autre stocké."
+    },
+    {
+      "q": "Q: L'historique de mon nom d'utilisateur peut-il être masqué?",
+      "a": "R: Oui. Depuis LivzMC Archives l'historique des noms des comptes, si Mojang supprime votre historique de noms. <a href=\"/contact\" class=\"text-indigo-500\">Contactez-nous et nous sommes prêts à le cacher.</a>"
+    },
+    {
+      "q": "Q: Puis-je cacher l'histoire de mes skins et l'histoire de mes capes?",
+      "a": "R: <a href=\"/account\" class=\"text-indigo-500\">Inscrivez vous</a> et réclamez votre compte Minecraft, puis vous pouvez cacher des skins / capes."
+    },
+    {
+      "q": "Q: Comment les capes de bannière OptiFine sont-ils mis en cache?",
+      "a": "R: Ils sont mis en cache de la même manière que les peaux et les capes Mojang! J'ai une file d'attente d'OptiFine Capes et je les modifie manuellement après un certain temps."
+    },
+    {
+      "q": "Q: Puis-je réclamer mon compte Minecraft?",
+      "a": "R: Oui! Vous pouvez réclamer des comptes en faisant un compte LivzMC <a href=\"/account\" class=\"text-indigo-500\">ici!</a>"
+    },
+    {
+      "q": "Q: Pourquoi LabyMod ou MinecraftCapes ne sont-ils pas en cache?",
+      "a": "R: Vous devez être <a href=\"/account/login\">connecté</a>. Si vous êtes connecté et que vous avez toujours un problème, s'il vous plaît <a href=\"mailto:kaiaf@protonmail.com\">contactez-moi</a>."
+    }
+  ],
+  "server.version": "Version",
+  "server.online.players": "Joueurs en ligne",
+  "server.last.updated": "Dernière mise à jour",
+  "server.likes": "J'aimes du serveur",
+  "server.past.members": "Anciens membres du serveur",
+  "server.no.users.found": "Aucun utilisateur trouvé."
+}
