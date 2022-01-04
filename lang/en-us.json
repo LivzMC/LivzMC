@@ -79,5 +79,6 @@
   "cancel": "Cancel",
   "enabled": "Enabled",
   "disabled": "Disabled",
+  "error.must.be.logged.in": "You must be logged in to see this.",
   "title": "English"
 }
