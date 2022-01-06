@@ -22,9 +22,6 @@
   "home.div": [
     {
       "html": "Si vous trouvez des bogues, vous pouvez les signaler à notre nouveau <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Traqueur de problèmes</a>! Vous pouvez également suggérer de nouvelles fonctionnalités / modifications!"
-    },
-    {
-      "html": "<a href=\"/discord\" class=\"font-semibold\">Si vous rejoignez le serveur Discord, vous pouvez obtenir un emoji pour votre profil Minecraft. Assurez-vous d'avoir un compte LivzMC et votre profil Minecraft est lié.</a>"
     }
   ],
   "home.faq": [

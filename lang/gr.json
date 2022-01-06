@@ -22,9 +22,6 @@
   "home.div": [
     {
       "html": "Αν βρείτε κανένα σφάλμα, μπορείτε να το αναφέρετε στον νέο μας <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">ιχνηλάτη ζητημάτων</a>! Μπορείς επίσης να προτείνεις νέα χαρακτηριστικά / αλλαγές!"
-    },
-    {
-      "html": "<a href=\"/discord\" class=\"font-semibold\">Αν μπεις στον Discord διακομιστή μας, μπορείς να πάρεις ένα emoji για το Minecraft προφίλ σου.Σιγουρέψου να έχεις τον LivzMC λογαριασμό και τον Minecraft λογαριασμό συνδεδεμένους.</a>"
     }
   ],
   "home.faq": [

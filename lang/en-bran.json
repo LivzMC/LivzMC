@@ -22,9 +22,6 @@
   "home.div": [
     {
       "html": "Bark bark bark bark bark, bark bark bark bark bark bark bark <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Bark bark</a>! Yark bark bark bark bark barks / barks!"
-    },
-    {
-      "html": "<a href=\"/discord\" class=\"font-semibold\">Bark bark bark bark Bark bark, bark bark bark bark bark bark bark Bark Bark. Bark bark bark bark bark LivzMC bark bark bark Bark Bark bark bark.</a>"
     }
   ],
   "home.faq": [

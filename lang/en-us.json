@@ -21,9 +21,6 @@
   "home.div": [
     {
       "html": "If you find any bugs, you can report them to our new <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!"
-    },
-    {
-      "html": "<a href=\"/discord\" class=\"font-semibold\">If you join the Discord server, you can get a emoji for your Minecraft Profile. Make sure you have a LivzMC account and your Minecraft Profile is linked.</a>"
     }
   ],
   "home.faq": [
