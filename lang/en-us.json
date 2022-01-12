@@ -24,7 +24,7 @@
       "belowFAQ": false
     },
     {
-      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> Minecraft © Mojang <br> OptiFine © sp614x <br> LabyMod © LabyMedia GmbH <br> MinecraftCapes © james090500</span>",
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
     }
   ],
