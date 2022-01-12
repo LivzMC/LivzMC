@@ -20,7 +20,12 @@
   "nav.dropdown.signout": "Sign out",
   "home.div": [
     {
-      "html": "If you find any bugs, you can report them to our new <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!"
+      "html": "If you find any bugs, you can report them to our new <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> Minecraft © Mojang <br> OptiFine © sp614x <br> LabyMod © LabyMedia GmbH <br> MinecraftCapes © james090500</span>",
+      "belowFAQ": true
     }
   ],
   "home.faq": [
@@ -30,7 +35,7 @@
     },
     {
       "q": "Q: Can My Username History be Hidden?",
-      "a": "A: Yes. Since LivzMC Archives the name history of accounts, if Mojang deletes your name history. <a href=\"/contact\" class=\"text-indigo-500\">Contact us and we are willing to hide it.</a>"
+      "a": "A: Yes. Since LivzMC Archives the name history of accounts, <span class=\"font-semibold\">if Mojang deletes your name history.</span> <a href=\"/contact\" class=\"text-indigo-500\">Contact us and we are willing to hide it.</a>"
     },
     {
       "q": "Q: Can I hide my skin history and Cape history?",
