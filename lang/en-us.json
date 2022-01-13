@@ -82,5 +82,8 @@
   "enabled": "Enabled",
   "disabled": "Disabled",
   "error.must.be.logged.in": "You must be logged in to see this.",
+  "following": "Following",
+  "who.to.follow": "Who to Follow",
+  "view": "View",
   "title": "English"
 }
