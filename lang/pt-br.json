@@ -1,0 +1,93 @@
+{
+    "authors": [
+      "HyperGalactic"
+    ],
+    "lang": "pt-br",
+    "nav.home": "Início",
+    "nav.admin": "Painel do Administrador",
+    "nav.skins": "Skins",
+    "nav.capes": "Capas",
+    "nav.ofCape": "Capas do Optifine",
+    "nav.other": "Outros...",
+    "nav.other.following": "Seguindo",
+    "nav.other.discord": "Discord",
+    "nav.other.privacy": "Política de Privacidade",
+    "nav.other.contact": "Contato",
+    "nav.other.badges": "Insígnias",
+    "nav.search.placeholder": "Nick / UUID",
+    "nav.search.button": "Pesquisar",
+    "nav.dropdown.profile": "Seu perfil",
+    "nav.dropdown.settings": "Configurações",
+    "nav.dropdown.signout": "Sair",
+    "home.div": [
+      {
+        "html": "Se você encontrar algum bug, pode reportá-lo em nosso <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! Você também pode sugerir novos recursos ou modificações.",
+        "belowFAQ": false
+      },
+      {
+        "html": "LivzMC não é afiliado a Mojang AB, OptiFine, Microsoft ou qualquer outra companhia mencionada. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+        "belowFAQ": true
+      }
+    ],
+    "home.faq": [
+      {
+        "q": "Q: Quais informações estão sendo salvas em relação as contas de Minecraft?",
+        "a": "A: Estão sendo salvos apenas: Nicks, Histórico de Nicks, Skins, Capas da Mojang / OptiFine. Além disso, nada mais está sendo armazenado."
+      },
+      {
+        "q": "Q: Posso ter meu histórico de nicks ocultado?",
+        "a": "A: Sim. Tendo em vista que o LivzMC armazena o histórico de nicks, <span class=\"font-semibold\">se a Mojang deletar seu histórico atual.</span> <a href=\"/contact\" class=\"text-indigo-500\">Contate-nos e iremos ocultá-lo também.</a>"
+      },
+      {
+        "q": "Q: Posso ocultar meu histórico de skins e capas?",
+        "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Logue-se</a> e vincule sua conta Minecraft, e então poderá ocultar skins / capas."
+      },
+      {
+        "q": "Q: Como as capas da Optifine são armazenadas?",
+        "a": "A: Elas são armazenadas da mesma forma que as skins e capas da Mojang! Eu possuo uma fila de capas da Optifine e atualizo ela manualmente a cada certo período de tempo."
+      },
+      {
+        "q": "Q: Posso vincular minha conta Minecraft?",
+        "a": "A: Sim! Você pode vincular sua conta Minecraft criando uma conta no LivzMC, clicando <a href=\"/account\" class=\"text-indigo-500\">aqui!</a>"
+      },
+      {
+        "q": "Q: Por que as capas LabyMod e MinecraftCapes não estão armazenando em cache?",
+        "a": "A: Você precisa estar <a href=\"/account/login\">logado</a>. Se você estiver logado e este problema continuar ocorrendo <a href=\"mailto:kaiaf@protonmail.com\">contate-me</a>."
+      }
+    ],
+    "server.version": "Versão",
+    "server.online.players": "Jogadores Online",
+    "server.last.updated": "Ultima atualização",
+    "server.likes": "Curtidas do servidor",
+    "server.past.members": "Membros anteriores do servidor",
+    "server.no.users.found": "Não foram encontrados usuários.",
+    "account.title": "Painel da Conta",
+    "account.information": "Informções da Conta",
+    "account.id": "ID da Conta",
+    "account.email.address": "Endereço de E-mail",
+    "account.password": "Senha",
+    "account.permission": "Permissões",
+    "account.creation.date": "Data de Criação",
+    "account.linked.accounts": "Contas Vinculadas",
+    "account.data": "Dados da Conta",
+    "account.settings": "Configurações da Conta",
+    "account.settings.optifine": "Mostrar cosméticos do Optifine",
+    "account.settings.minecraftcapes": "Mostrar cosméticos do MinecraftCapes",
+    "account.settings.laby": "Mostrar cosméticos do LabyMod",
+    "account.settings.newsletter": "Receber newsletter",
+    "download": "Baixar",
+    "download.account.data": "Baixar dados da conta",
+    "download.enter.pass": "Digite sua senha para continuar",
+    "verify.email": "Verificar E-mail",
+    "cancel": "Cancelar",
+    "enabled": "Ativado",
+    "disabled": "Desativado",
+    "error.must.be.logged.in": "Você precisa estar logado para continuar.",
+    "following": "Seguindo",
+    "who.to.follow": "Quem seguir",
+    "view": "Visualizar",
+    "badges": "Insígnias",
+    "badges.custom": "Insígnias personalizadas",
+    "users": "Usuários",
+    "title": "Português"
+  }
