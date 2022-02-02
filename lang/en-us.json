@@ -17,6 +17,7 @@
   "nav.search.placeholder": "Username / UUID",
   "nav.search.button": "Search",
   "nav.dropdown.profile": "Your Profile",
+  "nav.dropdown.editprofile": "Edit Profile",
   "nav.dropdown.settings": "Settings",
   "nav.dropdown.signout": "Sign out",
   "home.div": [
