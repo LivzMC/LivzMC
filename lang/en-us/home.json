@@ -1,26 +1,5 @@
 {
-  "authors": [
-    "*"
-  ],
-  "lang": "en-us",
-  "nav.home": "Home",
-  "nav.admin": "Admin Panel",
-  "nav.skins": "Skins",
-  "nav.capes": "Capes",
-  "nav.ofCape": "OptiFine Capes",
-  "nav.other": "Other...",
-  "nav.other.following": "Following",
-  "nav.other.discord": "Discord",
-  "nav.other.privacy": "Privacy Policy",
-  "nav.other.contact": "Contact",
-  "nav.other.badges": "Badges",
-  "nav.search.placeholder": "Username / UUID",
-  "nav.search.button": "Search",
-  "nav.dropdown.profile": "Your Profile",
-  "nav.dropdown.editprofile": "Edit Profile",
-  "nav.dropdown.settings": "Settings",
-  "nav.dropdown.signout": "Sign out",
-  "home.div": [
+  "div": [
     {
       "html": "If you find any bugs, you can report them to our new <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!",
       "belowFAQ": false
@@ -30,7 +9,7 @@
       "belowFAQ": true
     }
   ],
-  "home.faq": [
+  "faq": [
     {
       "q": "Q: What information is being saved regarding Minecraft accounts?",
       "a": "A: Only things that are saved are: Username, Username History, Skins, Mojang / OptiFine Capes. Really other than that, there is nothing else being stored."
@@ -55,41 +34,5 @@
       "q": "Q: Why aren't LabyMod or MinecraftCapes not caching?",
       "a": "A: You have to be <a href=\"/account/login\">logged in</a>. If you are logged in and you are still having any issue, please <a href=\"mailto:kaiaf@protonmail.com\">contact me</a>."
     }
-  ],
-  "server.version": "Version",
-  "server.online.players": "Online Players",
-  "server.last.updated": "Last Updated",
-  "server.likes": "Server Likes",
-  "server.past.members": "Past Server Members",
-  "server.no.users.found": "No Users Found.",
-  "account.title": "Account Dashboard",
-  "account.information": "Account Information",
-  "account.id": "Account ID",
-  "account.email.address": "Email address",
-  "account.password": "Password",
-  "account.permission": "Permissions",
-  "account.creation.date": "Creation Date",
-  "account.linked.accounts": "Linked Accounts",
-  "account.data": "Account Data",
-  "account.settings": "Account Settings",
-  "account.settings.optifine": "Show OptiFine Cosmetics",
-  "account.settings.minecraftcapes": "Show MinecraftCapes Cosmetics",
-  "account.settings.laby": "Show LabyMod Cosmetics",
-  "account.settings.newsletter": "Email Newsletter",
-  "account.settings.seeFonts": "See Custom Fonts",
-  "download": "Download",
-  "download.account.data": "Download Account Data",
-  "download.enter.pass": "Please enter your Password to continue.",
-  "verify.email": "Verify Email",
-  "cancel": "Cancel",
-  "enabled": "Enabled",
-  "disabled": "Disabled",
-  "error.must.be.logged.in": "You must be logged in to see this.",
-  "following": "Following",
-  "who.to.follow": "Who to Follow",
-  "view": "View",
-  "badges": "Badges",
-  "badges.custom": "Custom Badges",
-  "users": "Users",
-  "title": "English"
+  ]
 }

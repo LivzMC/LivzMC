@@ -1,0 +1,16 @@
+{
+  "title": "Painel da Conta",
+  "information": "Informções da Conta",
+  "id": "ID da Conta",
+  "email.address": "Endereço de E-mail",
+  "password": "Senha",
+  "permission": "Permissões",
+  "creation.date": "Data de Criação",
+  "linked.accounts": "Contas Vinculadas",
+  "data": "Dados da Conta",
+  "settings": "Configurações da Conta",
+  "settings.optifine": "Mostrar cosméticos do Optifine",
+  "settings.minecraftcapes": "Mostrar cosméticos do MinecraftCapes",
+  "settings.laby": "Mostrar cosméticos do LabyMod",
+  "settings.newsletter": "Receber newsletter"
+}

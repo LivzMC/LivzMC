@@ -1,34 +1,15 @@
 {
-  "authors": [
-    "Bisou"
-  ],
-  "lang": "fr-ca",
-  "title": "Français",
-  "nav.home": "Accueil",
-  "nav.admin": "Panneau d'administration",
-  "nav.skins": "Skins",
-  "nav.capes": "Capes",
-  "nav.ofCape": "Capes OptiFine",
-  "nav.other": "Autres...",
-  "nav.other.following": "Following",
-  "nav.other.discord": "Discord",
-  "nav.other.privacy": "Politique de confidentialité",
-  "nav.other.contact": "Contact",
-  "nav.search.placeholder": "Pseudos / UUID",
-  "nav.search.button": "Recherche",
-  "nav.dropdown.profile": "Votre profil",
-  "nav.dropdown.settings": "Paramètres",
-  "nav.dropdown.signout": "Déconnecter",
-  "home.div": [
+  "div": [
     {
-      "html": "Si vous trouvez des bogues, vous pouvez les signaler à notre nouveau <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Traqueur de problèmes</a>! Vous pouvez également suggérer de nouvelles fonctionnalités / modifications!"
+      "html": "Si vous trouvez des bogues, vous pouvez les signaler à notre nouveau <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Traqueur de problèmes</a>! Vous pouvez également suggérer de nouvelles fonctionnalités / modifications!",
+      "belowFAQ": false
     },
     {
       "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
     }
   ],
-  "home.faq": [
+  "faq": [
     {
       "q": "Q: Quelles informations sont enregistrées concernant les comptes Minecraft?",
       "a": "R: Les seules choses qui sont enregistrées sont le nom d'utilisateur, l'historique du nom d'utilisateur, les skins, les capes Mojang / OptiFine. Vraiment à part cela, il n'y a rien d'autre stocké."
@@ -53,11 +34,5 @@
       "q": "Q: Pourquoi LabyMod ou MinecraftCapes ne sont-ils pas en cache?",
       "a": "R: Vous devez être <a href=\"/account/login\">connecté</a>. Si vous êtes connecté et que vous avez toujours un problème, s'il vous plaît <a href=\"mailto:kaiaf@protonmail.com\">contactez-moi</a>."
     }
-  ],
-  "server.version": "Version",
-  "server.online.players": "Joueurs en ligne",
-  "server.last.updated": "Dernière mise à jour",
-  "server.likes": "J'aimes du serveur",
-  "server.past.members": "Anciens membres du serveur",
-  "server.no.users.found": "Aucun utilisateur trouvé."
+  ]
 }

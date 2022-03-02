@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "michz"
+  ],
+  "lang": "gr",
+  "title": "Ελληνικά",
+  "nav.home": "Home",
+  "nav.admin": "Πίνακας Διαχειριστή",
+  "nav.skins": "Skins",
+  "nav.capes": "Κάπες",
+  "nav.ofCape": "OptiFine Κάπες",
+  "nav.other": "Άλλα...",
+  "nav.other.following": "Ακολουθώντας",
+  "nav.other.discord": "Discord",
+  "nav.other.privacy": "Πολιτική Απορρήτου",
+  "nav.other.contact": "Επικοινώνησε",
+  "nav.search.placeholder": "Όνομα Χρήστη / UUID",
+  "nav.search.button": "Αναζήτησε",
+  "nav.dropdown.profile": "Το Προφίλ Σου",
+  "nav.dropdown.settings": "Ρυθμίσεις",
+  "nav.dropdown.signout": "Αποσύνδεσε Λογαριασμό"
+}

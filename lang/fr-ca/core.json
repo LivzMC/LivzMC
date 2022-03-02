@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "Bisou"
+  ],
+  "lang": "fr-ca",
+  "title": "Français",
+  "nav.home": "Accueil",
+  "nav.admin": "Panneau d'administration",
+  "nav.skins": "Skins",
+  "nav.capes": "Capes",
+  "nav.ofCape": "Capes OptiFine",
+  "nav.other": "Autres...",
+  "nav.other.following": "Following",
+  "nav.other.discord": "Discord",
+  "nav.other.privacy": "Politique de confidentialité",
+  "nav.other.contact": "Contact",
+  "nav.search.placeholder": "Pseudos / UUID",
+  "nav.search.button": "Recherche",
+  "nav.dropdown.profile": "Votre profil",
+  "nav.dropdown.settings": "Paramètres",
+  "nav.dropdown.signout": "Déconnecter"
+}
