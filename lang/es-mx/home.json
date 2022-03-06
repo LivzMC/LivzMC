@@ -1,7 +1,7 @@
 {
   "div": [
     {
-      "html": "If you find any bugs, you can report them to our new <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a>! You can also suggest new features / changes!",
+      "html": "If you find any bugs, you can report them to our new <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! You can also suggest new features / changes!",
       "belowFAQ": false
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "q": "Q: Can My Username History be Hidden?",
-      "a": "A: Yes. Since LivzMC Archives the name history of accounts, <span class=\"font-semibold\">if Mojang deletes your name history.</span> <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Contact us and we are willing to hide it.</a>"
+      "a": "A: Yes. Since LivzMC Archives the name history of accounts, if Mojang deletes your name history. <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Contact us and we are willing to hide it.</a>"
     },
     {
       "q": "Q: Can I hide my skin history and Cape history?",

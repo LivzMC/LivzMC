@@ -1,12 +1,16 @@
 {
   "div": [
     {
-      "html": "Se você encontrar algum bug, pode reportá-lo em nosso <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! Você também pode sugerir novos recursos ou modificações.",
+      "html": "Se você encontrar algum bug, pode reportá-lo em nosso <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"https://github.com/LivzMC/LivzMC\">Issue tracker</a>! Você também pode sugerir novos recursos ou modificações.",
       "belowFAQ": false
     },
     {
-      "html": "LivzMC não é afiliado a Mojang AB, OptiFine, Microsoft ou qualquer outra companhia mencionada. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "html": "LivzMC não é afiliado a Mojang AB, OptiFine, Microsoft ou qualquer outra companhia mencionada. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
+    },
+    {
+      "html": "If you want to contact me, please email <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@mail.livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
     }
   ],
   "faq": [
@@ -16,11 +20,11 @@
     },
     {
       "q": "Q: Posso ter meu histórico de nicks ocultado?",
-      "a": "A: Sim. Tendo em vista que o LivzMC armazena o histórico de nicks, <span class=\"font-semibold\">se a Mojang deletar seu histórico atual.</span> <a href=\"/contact\" class=\"text-indigo-500\">Contate-nos e iremos ocultá-lo também.</a>"
+      "a": "A: Sim. Tendo em vista que o LivzMC armazena o histórico de nicks, <span class=\"font-semibold\">se a Mojang deletar seu histórico atual.</span> <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Contate-nos e iremos ocultá-lo também.</a>"
     },
     {
       "q": "Q: Posso ocultar meu histórico de skins e capas?",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Logue-se</a> e vincule sua conta Minecraft, e então poderá ocultar skins / capas."
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Logue-se</a> e vincule sua conta Minecraft, e então poderá ocultar skins / capas."
     },
     {
       "q": "Q: Como as capas da Optifine são armazenadas?",
@@ -28,11 +32,11 @@
     },
     {
       "q": "Q: Posso vincular minha conta Minecraft?",
-      "a": "A: Sim! Você pode vincular sua conta Minecraft criando uma conta no LivzMC, clicando <a href=\"/account\" class=\"text-indigo-500\">aqui!</a>"
+      "a": "A: Sim! Você pode vincular sua conta Minecraft criando uma conta no LivzMC, clicando <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">aqui!</a>"
     },
     {
       "q": "Q: Por que as capas LabyMod e MinecraftCapes não estão armazenando em cache?",
-      "a": "A: Você precisa estar <a href=\"/account/login\">logado</a>. Se você estiver logado e este problema continuar ocorrendo <a href=\"mailto:kaiaf@protonmail.com\">contate-me</a>."
+      "a": "A: Você precisa estar <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">logado</a>."
     }
   ]
 }

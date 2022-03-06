@@ -1,12 +1,16 @@
 {
   "div": [
     {
-      "html": "Bark bark bark bark bark, bark bark bark bark bark bark bark <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">Bark bark</a>! Yark bark bark bark bark barks / barks!",
+      "html": "Bark bark bark bark bark, bark bark bark bark bark bark bark <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"https://github.com/LivzMC/LivzMC\">Bark bark</a>! Yark bark bark bark bark barks / barks!",
       "belowFAQ": false
     },
     {
-      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
+    },
+    {
+      "html": "Bark bark bark bark bark bark, bark bark <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">bark@bark.bark.bark</a> bark bark bark <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Bark</a>!",
+      "belowFAQ": false
     }
   ],
   "faq": [
@@ -16,11 +20,11 @@
     },
     {
       "q": "Q: Bark Bark Bark Bark bark Bark?",
-      "a": "A: Bark. Bark LivzMC Bark bark bark bark bark barks, bark Bark bark bark bark. <a href=\"/contact\" class=\"text-indigo-500\">Bark bark bark bark bark bark bark.</a>"
+      "a": "A: Bark. Bark LivzMC Bark bark bark bark bark barks, bark Bark bark bark bark. <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Bark bark bark bark bark bark bark.</a>"
     },
     {
       "q": "Q: Bark Bark bark bark bark bark Bark bark?",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Bark bark</a> bark bark bark Bark bark, bark bark bark barks / barks."
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Bark bark</a> bark bark bark Bark bark, bark bark bark barks / barks."
     },
     {
       "q": "Q: Bark bark Bark bark bark bark?",
@@ -28,7 +32,7 @@
     },
     {
       "q": "Q: Bark Bark bark bark Bark Bark?",
-      "a": "A: Bark! Bark bark bark barks bark bark bark LivzMC Bark <a href=\"/account\" class=\"text-indigo-500\">bark!</a>"
+      "a": "A: Bark! Bark bark bark barks bark bark bark LivzMC Bark <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">bark!</a>"
     },
     {
       "q": "Q: Bark barkn't Bark bark BarkBarks bark bark?",

@@ -1,12 +1,16 @@
 {
   "div": [
     {
-      "html": "Αν βρείτε κανένα σφάλμα, μπορείτε να το αναφέρετε στον νέο μας <a class=\"text-blue-900 dark:text-blue-500\" href=\"https://github.com/LivzMC/LivzMC\">ιχνηλάτη ζητημάτων</a>! Μπορείς επίσης να προτείνεις νέα χαρακτηριστικά / αλλαγές!",
+      "html": "Αν βρείτε κανένα σφάλμα, μπορείτε να το αναφέρετε στον νέο μας <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"https://github.com/LivzMC/LivzMC\">ιχνηλάτη ζητημάτων</a>! Μπορείς επίσης να προτείνεις νέα χαρακτηριστικά / αλλαγές!",
       "belowFAQ": false
     },
     {
-      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-500\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-500\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-500\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-500\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
+    },
+    {
+      "html": "If you want to contact me, please email <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@mail.livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
     }
   ],
   "faq": [
@@ -16,11 +20,11 @@
     },
     {
       "q": "Ε: Μπορεί η Ιστορία Ονομάτων Χρήστη μου να κρυφτεί;",
-      "a": "A: Ναι. Αφού το LivzMC αρχειοθετεί την ιστορία ονομάτων των λογαριασμών, αν η Mojang διαγράψει την ιστορία των ονομάτων σου. <a href=\"/contact\" class=\"text-indigo-500\">Επικοινώνησε μας και είμαστε πρόθυμοι να την κρύψουμε.</a>"
+      "a": "A: Ναι. Αφού το LivzMC αρχειοθετεί την ιστορία ονομάτων των λογαριασμών, αν η Mojang διαγράψει την ιστορία των ονομάτων σου. <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Επικοινώνησε μας και είμαστε πρόθυμοι να την κρύψουμε.</a>"
     },
     {
       "q": "Ε: Μπορώ να κρύψω την skin ιστορία και την ιστορία της κάπας μου;",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-500\">Συνδέσου στον λογαριασμό σου</a> και διεκδίκησε τον Minecraft λογαριασμό σου, τότε μπορείς να κρύψεις skins / κάπες."
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Συνδέσου στον λογαριασμό σου</a> και διεκδίκησε τον Minecraft λογαριασμό σου, τότε μπορείς να κρύψεις skins / κάπες."
     },
     {
       "q": "Ε: Πως είναι η Optifine κάπες αποθηκευμένες;",
@@ -28,11 +32,11 @@
     },
     {
       "q": "Ε: Μπορώ να διεκδικήσω τον Minecraft λογαριασμό μου;",
-      "a": "A: Ναι! Μπορείς να διεκδικήσεις λογαριασμούς με το να φτιάξεις έναν LivzMC Λογαριασμό <a href=\"/account\" class=\"text-indigo-500\">εδώ!</a>"
+      "a": "A: Ναι! Μπορείς να διεκδικήσεις λογαριασμούς με το να φτιάξεις έναν LivzMC Λογαριασμό <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">εδώ!</a>"
     },
     {
       "q": "Ε: Γιατί δεν αποθηκεύονται οι Labymod ή MinecraftCapes?",
-      "a": "A: Πρέπει να είσαι <a href=\"/account/login\">συνδεδεμένος στον λογαριασμό σου.</a>. Αν είσαι συνδεδεμένος και έχεις ακόμη κανένα πρόβλημα, παρακαλώ <a href=\"mailto:kaiaf@protonmail.com\">επικοινώνησε με</a>."
+      "a": "A: Πρέπει να είσαι <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">συνδεδεμένος στον λογαριασμό σου.</a>/."
     }
   ]
 }
