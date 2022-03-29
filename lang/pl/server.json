@@ -1,8 +1,8 @@
 {
-  "version": "Version",
-  "online.players": "Online Players",
-  "last.updated": "Last Updated",
-  "likes": "Server Likes",
-  "past.members": "Past Server Members",
-  "no.users.found": "No Users Found."
+  "version": "Wersja",
+  "online.players": "Gracze Online",
+  "last.updated": "Ostatnia Aktualizacja",
+  "likes": "Polubienia Serwera",
+  "past.members": "Ostatni gracze na serwerze",
+  "no.users.found": "Nie znaleziono użytkowników."
 }
