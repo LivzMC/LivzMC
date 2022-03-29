@@ -1,0 +1,17 @@
+{
+  "title": "Panel Konta",
+  "information": "Informacje o koncie",
+  "id": "ID Konta",
+  "email.address": "Adres Email",
+  "password": "Hasło",
+  "permission": "Permisje",
+  "creation.date": "Data Utworzenia",
+  "linked.accounts": "Powiązane Konta",
+  "data": "Dane Konta",
+  "settings": "Ustawienia Konta",
+  "settings.optifine": "Wyświetl Kosmetyki OptiFine",
+  "settings.minecraftcapes": "Wyświetl Peleryny",
+  "settings.laby": "Wyświetl Kosmetyki LabyMod",
+  "settings.newsletter": "Newsletter",
+  "settings.seeFonts": "Zobacz Niestandardowe Czcionki"
+}

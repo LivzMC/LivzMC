@@ -1,0 +1,42 @@
+{
+  "div": [
+    {
+      "html": "Jeśli znajdziesz jakieś błędy, możesz zgłosić je do naszej <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Listy błędów</a>! Możesz także zaproponować nowe funkcje / zmiany!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC nie jest związane z Mojang AB, OptiFine, Microsoft, ani z żadnymi wymienionymi firmami. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Jeśli chcesz się ze mną skontaktować, wyślij email <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@mail.livzmc.net</a> lub dołącz na nasz <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Jakie informacje o moim koncie Minecraft są zapisywane?",
+      "a": "A: Jedyne rzeczy które są zapisywane to: Nick, Historia Nicków, Skiny, Peleryny Mojang / OptiFine. Żadne inne dane nie są przechowywane."
+    },
+    {
+      "q": "Q: Czy moja Historia Nicków może zostać ukryta?",
+      "a": "A: Tak. LivzMC archiwizuję historie nicków, <span class=\"font-semibold\">nawet jeśli Mojang usunie twoją historię nicków.</span> <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Skontaktuj się z nami, a my chętnie to ukryjemy.</a>"
+    },
+    {
+      "q": "Q: Czy mogę ukryć moją Historie Peleryn i Skinów?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Zaloguj się</a> i zajmij swoje konto Minecraft, a następnie będziesz mógł ukryć skiny / peleryny."
+    },
+    {
+      "q": "Q: W jaki sposób Peleryny Optifine są wyświetlane?",
+      "a": "A: W taki sam sposób jak skiny i peleryny Mojang! Posiadam listę peleryn OptiFine i co jakiś czas manualnie ją edytuje."
+    },
+    {
+      "q": "Q: Czy mogę zająć swoje Konto Minecraft?",
+      "a": "A: Tak! Możesz zająć swoje konto Minecraft tworząc konto LivzMC <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">tutaj!</a>"
+    },
+    {
+      "q": "Q: Dlaczego Kosmetyki LabyMod i Peleryny nie wyświetlają się?",
+      "a": "A: Musisz być <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">zalogowany</a>."
+    }
+  ]
+}
