@@ -1,10 +1,10 @@
 {
   "authors": [
-    "*"
+    "PatrickMEOW"
   ],
   "lang": "pl",
-  "nav.home": "Home",
-  "nav.admin": "Admin Panel",
+  "nav.home": "Strona Główna",
+  "nav.admin": "Panel Admina",
   "nav.skins": "Skiny",
   "nav.capes": "Peleryny",
   "nav.ofCape": "Peleryny OptiFine",
