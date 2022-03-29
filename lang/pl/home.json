@@ -9,7 +9,7 @@
       "belowFAQ": true
     },
     {
-      "html": "Jeśli chcesz ze mną skontaktować, wyślij email <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@mail.livzmc.net</a> lub dołącz na nasz <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "html": "Jeśli chcesz się ze mną skontaktować, wyślij email <a href=\"mailto:support@mail.livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@mail.livzmc.net</a> lub dołącz na nasz <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
       "belowFAQ": false
     }
   ],
@@ -19,19 +19,19 @@
       "a": "A: Jedyne rzeczy które są zapisywane to: Nick, Historia Nicków, Skiny, Peleryny Mojang / OptiFine. Żadne inne dane nie są przechowywane."
     },
     {
-      "q": "Q: Czy moja historia nicków może zostać ukryta?",
+      "q": "Q: Czy moja Historia Nicków może zostać ukryta?",
       "a": "A: Tak. LivzMC archiwizuję historie nicków, <span class=\"font-semibold\">nawet jeśli Mojang usunie twoją historię nicków.</span> <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Skontaktuj się z nami, a my chętnie to ukryjemy.</a>"
     },
     {
-      "q": "Q: Czy mogę ukryć moją historie peleryn i skinów?",
+      "q": "Q: Czy mogę ukryć moją Historie Peleryn i Skinów?",
       "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Zaloguj się</a> i zajmij swoje konto Minecraft, a następnie będziesz mógł ukryć skiny / peleryny."
     },
     {
-      "q": "Q: W jaki sposób peleryny Optifine są wyświetlane?",
-      "a": "A: W taki sam sposób jak skiny i peleryny Mojang! Mam listę peleryn OptiFine i co jakiś czas manualnie ją edytuje."
+      "q": "Q: W jaki sposób Peleryny Optifine są wyświetlane?",
+      "a": "A: W taki sam sposób jak skiny i peleryny Mojang! Posiadam listę peleryn OptiFine i co jakiś czas manualnie ją edytuje."
     },
     {
-      "q": "Q: Czy mogę zająć swoje Konto Minecradr?",
+      "q": "Q: Czy mogę zająć swoje Konto Minecraft?",
       "a": "A: Tak! Możesz zająć swoje konto Minecraft tworząc konto LivzMC <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">tutaj!</a>"
     },
     {
