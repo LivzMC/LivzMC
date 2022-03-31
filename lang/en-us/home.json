@@ -20,7 +20,7 @@
     },
     {
       "q": "Q: Can My Username History be Hidden?",
-      "a": "A: Yes. Since LivzMC Archives the name history of accounts, <span class=\"font-semibold\">if Mojang deletes your name history.</span> <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Contact us and we are willing to hide it.</a>"
+      "a": "A: Yes. Since LivzMC Archives the name history of accounts, if Mojang deletes your name history. Use the information at the top of this page to contact us and we are willing to hide it."
     },
     {
       "q": "Q: Can I hide my skin history and Cape history?",
@@ -37,6 +37,10 @@
     {
       "q": "Q: Why aren't LabyMod or MinecraftCapes not caching?",
       "a": "A: You have to be <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">logged in</a>."
+    },
+    {
+      "q": "Q: What does Defer Cache do?",
+      "a": "A: This is an account setting disabled by default. When you search a Minecraft account, it will update the user after the page has been loaded, recommended for performance. If disabled, it will update the user before the page is loaded.<br>You may see decreased load times if this option is disabled."
     }
   ]
 }

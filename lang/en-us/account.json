@@ -13,5 +13,7 @@
   "settings.minecraftcapes": "Show MinecraftCapes Cosmetics",
   "settings.laby": "Show LabyMod Cosmetics",
   "settings.newsletter": "Email Newsletter",
-  "settings.seeFonts": "See Custom Fonts"
+  "settings.seeFonts": "See Custom Fonts",
+  "settings.defercache": "Defer Caching",
+  "more-info": "more info"
 }
