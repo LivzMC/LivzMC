@@ -22,5 +22,6 @@
   "apply.skin": "Apply Skin",
   "download.skin": "Download Skin",
   "downloads": "Downloads",
-  "applies": "Applies"
+  "applies": "Applies",
+  "init": "The server is loading the skins, this may take a few minutes. Please wait then refresh."
 }
