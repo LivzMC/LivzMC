@@ -40,7 +40,7 @@
     },
     {
       "q": "Q: What does Defer Cache do?",
-      "a": "A: This is an account setting disabled by default. When you search a Minecraft account, it will update the user after the page has been loaded, recommended for performance. If disabled, it will update the user before the page is loaded.<br>You may see decreased load times if this option is disabled."
+      "a": "A: This is an account setting enabled by default. When you search a Minecraft account, it will update the user after the page has been loaded, recommended for performance. If disabled, it will update the user before the page is loaded.<br>You may see decreased load times if this option is disabled."
     }
   ]
 }
