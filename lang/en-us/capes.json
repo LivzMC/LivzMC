@@ -1,0 +1,9 @@
+{
+  "users": "Users",
+  "download.cape": "Download Cape",
+  "view.more": "View More...",
+  "tooltip.1": "%n player%s [have|has] worn this cape.",
+  "tooltip.2": "No one has this cape.",
+  "removed.or.unused": "Removed or Unused Capes",
+  "init": "The server is loading the capes, this may take a few minutes. Please wait then refresh."
+}
