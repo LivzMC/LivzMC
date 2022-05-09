@@ -1,0 +1,20 @@
+{
+  "title": "Konto Dashboard",
+  "information": "Konto Informationen",
+  "id": "Konto ID",
+  "email.address": "Email Adresse",
+  "password": "Passwort",
+  "permission": "Berechtigungen",
+  "creation.date": "Erstellungsdatum",
+  "linked.accounts": "Verlinkte Accounts",
+  "data": "Kontodaten",
+  "settings": "Konto Einstellungen",
+  "settings.optifine": "Zeige OptiFine Cosmetics",
+  "settings.minecraftcapes": "Zeige MinecraftCapes Cosmetics",
+  "settings.laby": "Zeige LabyMod Cosmetics",
+  "settings.newsletter": "Email Newsletter",
+  "settings.seeFonts": "Zeige eigene Schriftarten",
+  "settings.defercache": "Caching aufschieben",
+  "settings.seeAds": "Werbungen anzeigen",
+  "more-info": "mehr Informationen"
+}

@@ -1,0 +1,46 @@
+{
+  "div": [
+    {
+      "html": "Wenn du irgendwleche Bugs findest, kannst du sie an unseren <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker schicken</a>! Du kannst auch neue Funktionen / 'c4nderungen vorschlagen!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC ist nicht mit Mojang AB, OptiFine, Microsoft oder irgendwelchen anderen Unternehmen verbunden. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Wenn du uns kontaktieren moechtest, sende bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Welche Informationen werden 'fcber Minecraft-Konten gespeichert?",
+      "a": "A: Die einzigen Dinge, die gespeichert werden, sind: Benutzername, Verlauf des Benutzernamens, Skins, Mojang / OptiFine Umh'e4nge. Sonst wird wirklich nichts anderes gespeichert."
+    },
+    {
+      "q": "Q: Kann der Verlauf meine name history  ausgeblendet werden?",
+      "a": "A: Ja. Da LivzMC die name history  von Accounts archiviert, kann es passieren, dass Mojang deinen Namensverlauf loescht. Verwende bitte die Informationen oben auf dieser Seite, um uns zu kontaktieren und wir sind bereit, es zu verstecken."
+    },
+    {
+      "q": "Q: Kann ich meine skin history oder meine cape history ausblenden?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Log in</a> und beanspruche dein Minecraft-Konto, dann kannst du Skins/Umhaenge ausblenden."
+    },
+    {
+      "q": "Q: Wie werden die OptiFine-Capes zwischengespeichert?",
+      "a": "A: Sie werden auf die gleiche Weise wie Skins und Mojang-Capes zwischengespeichert! Wir haben eine Warteschlange von OptiFine-Capes und bearbeiten sie nach einer gewissen Zeit."
+    },
+    {
+      "q": "Q: Kann ich mein Minecraft-Konto beanspruchen?",
+      "a": "A: Ja, du kannst Konten beanspruchen, indem du ein LivzMC-Konto anlegst. <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">here!</a>"
+    },
+    {
+      "q": "Q: Warum werden LabyMod oder MinecraftCapes nicht zwischengespeichert?",
+      "a": "A: Du musst<a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">eingeloggt sein</a>."
+    },
+    {
+      "q": "Q: Was bewirkt Defer Cache?",
+      "a": "A: Dies ist eine standardm'e4'dfig aktivierte Kontoeinstellung. Wenn du ein Minecraft-Konto durchsuchst, wird der Benutzer nach dem Laden der Seite aktualisiert, was fuer eine bessere Leistung empfohlen wird. Wenn diese Option deaktiviert ist, wird der Benutzer aktualisiert, bevor die Seite geladen wird.<br>Wenn diese Option deaktiviert ist, werden moeglicherweise verk'fcrzte Ladezeiten angezeigt."
+    }
+  ]
+}
