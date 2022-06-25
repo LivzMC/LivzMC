@@ -1,0 +1,20 @@
+{
+  "title": "Account Dashboard",
+  "information": "Account Informatie",
+  "id": "Account ID",
+  "email.address": "Email Address",
+  "password": "Wachtwoord",
+  "permission": "Toestemmingen",
+  "creation.date": "Datum van Creatie",
+  "linked.accounts": "Gelinkte Accounts",
+  "data": "Account Data",
+  "settings": "Account Instellingen",
+  "settings.optifine": "Laat OptiFine Cosmetica Zien",
+  "settings.minecraftcapes": "Laat MinecraftCapes Cosmetica Zien",
+  "settings.laby": "Laat LabyMod Cosmetica Zien",
+  "settings.newsletter": "Email Nieuwsbrief",
+  "settings.seeFonts": "Zie Speciale Fonts",
+  "settings.defercache": "Cache Uitstellen",
+  "settings.seeAds": "Laat Advertenties Zien",
+  "more-info": "meer info"
+}
