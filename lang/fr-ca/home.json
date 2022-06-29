@@ -16,7 +16,7 @@
   "faq": [
     {
       "q": "Q: Quelles informations sont enregistrées concernant les comptes Minecraft?",
-      "a": "R: Les seules choses qui sont enregistrées sont le nom d'utilisateur, l'historique du nom d'utilisateur, les skins, les capes Mojang / OptiFine. Vraiment à part cela, il n'y a rien d'autre stocké."
+      "a": "R: Les seules choses qui sont enregistrées sont: le nom d'utilisateur, l'historique du nom d'utilisateur, les skins, les capes Mojang / OptiFine. Vraiment à part cela, il n'y a rien d'autre stocké."
     },
     {
       "q": "Q: L'historique de mon nom d'utilisateur peut-il être masqué?",
@@ -37,6 +37,10 @@
     {
       "q": "Q: Pourquoi LabyMod ou MinecraftCapes ne sont-ils pas en cache?",
       "a": "R: Vous devez être <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">connecté</a>."
+    },
+    {
+      "q": "Q: Que fait «Différer la Mise en Cache»?",
+      "a": "R: Ceci est un paramètre de compte activé par défaut. Lorsque vous recherchez un compte Minecraft, il mettra à jour l'utilisateur après le chargement de la page, recommandé pour la performance. Si désactivé, il va mettre à jour l'utilisateur avant que la page est chargé.<br>Vous pouvez constater une diminution des temps de chargement si cette option est désactivée."
     }
   ]
 }

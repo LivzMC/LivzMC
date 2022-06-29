@@ -1,1 +1,20 @@
-{}
+{
+    "title": "Tableau de Bord de Compte",
+    "information": "Informations de Compte",
+    "id": "Identifiant de Compte",
+    "email.address": "Adresse email",
+    "password": "Mot de passe",
+    "permission": "Permissions",
+    "creation.date": "Date de création",
+    "linked.accounts": "Comptes liés",
+    "data": "Données de compte",
+    "settings": "Paramètres de compte",
+    "settings.optifine": "Afficher Cosmétiques OptiFine",
+    "settings.minecraftcapes": "Afficher Cosmétiques MinecraftCapes",
+    "settings.laby": "Afficher Cosmétiques LabyMod",
+    "settings.newsletter": "Newsletter par Email",
+    "settings.seeFonts": "Voir Polices Personnalisées",
+    "settings.defercache": "Différer la Mise en Cache",
+    "settings.seeAds": "Afficher Annonces",
+    "more-info": "plus d'infos"
+}
