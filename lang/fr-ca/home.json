@@ -40,7 +40,7 @@
     },
     {
       "q": "Q: Que fait «Différer la Mise en Cache»?",
-      "a": "Ceci est un paramètre de compte activé par défaut. Lorsque vous recherchez un compte Minecraft, il mettra à jour l'utilisateur après le chargement de la page, recommandé pour la performance. Si désactivé, il va mettre à jour l'utilisateur avant que la page est chargé.<br>Vous pouvez constater une diminution des temps de chargement si cette option est désactivée."
+      "a": "R: Ceci est un paramètre de compte activé par défaut. Lorsque vous recherchez un compte Minecraft, il mettra à jour l'utilisateur après le chargement de la page, recommandé pour la performance. Si désactivé, il va mettre à jour l'utilisateur avant que la page est chargé.<br>Vous pouvez constater une diminution des temps de chargement si cette option est désactivée."
     }
   ]
 }
