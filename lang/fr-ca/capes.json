@@ -1,0 +1,9 @@
+{
+    "users": "Utilisateurs",
+    "download.cape": "Télécharger Cape",
+    "view.more": "Voir Plus...",
+    "tooltip.1": "%n joueur%s [ont|a] porté cet cape.",
+    "tooltip.2": "Personne n'a cet cape.",
+    "removed.or.unused": "Capes Supprimés ou Inutilisé",
+    "init": "Le server charge les capes, cela peut prendre quelques minutes. Veuillez patienter puis actualiser."
+}
