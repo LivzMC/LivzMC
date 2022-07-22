@@ -16,5 +16,6 @@
   "settings.seeFonts": "See Custom Fonts",
   "settings.defercache": "Defer Caching",
   "settings.seeAds": "View Ads",
+  "settings.socket": "Use Sockets (<small>Real Time Notifications</small>)",
   "more-info": "more info"
 }
