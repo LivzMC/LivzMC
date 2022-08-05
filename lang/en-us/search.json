@@ -1,0 +1,15 @@
+{
+  "status": "Status",
+  "available": "Available.",
+  "blocked": "Blocked.",
+  "time.of.availability": "Time of Availability",
+  "username.is.blocked": "Username is blocked.",
+  "username.is.available": "Username is available.",
+  "username.is.not.available": "Username is not available.",
+  "not.available": "Not Available.",
+  "more.info": "More info*",
+  "invalid.characters": "Invalid Characters.",
+  "first.searched.on": "First searched on:",
+  "has.skins": "Has %n skin%s cached.",
+  "has.capes": "Has %n cape%s cached."
+}
