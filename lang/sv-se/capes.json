@@ -1,0 +1,9 @@
+{
+  "users": "Användare",
+  "download.cape": "Ladda Ner Manteln",
+  "view.more": "Visa Mer...",
+  "tooltip.1": "%n spelare%s [har|har] använt denna manteln.",
+  "tooltip.2": "Ingen har den här manteln.",
+  "removed.or.unused": "Borttagna eller oanvända mantlar",
+  "init": "Servern laddar mantlar, detta kan ta några minuter. Vänta och sedan ladda om."
+}
