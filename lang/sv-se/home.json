@@ -1,0 +1,46 @@
+{
+  "div": [
+    {
+      "html": "Ifall du hittar några buggar så kan du raportera dem till våran <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a> på GitHub! Du kan också föreslå nya funktioner / ändringar!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC är inte affilierad med Mojang AB, OptiFine, Microsoft eller andra nämnda företag. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Ifall du vill kontakta mig, skicka ett Email till <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> eller gå med i våran <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Vilken information sparas om Minecraft konton?",
+      "a": "A: Det enda som sparas är: Användarnamn, Användarnamnshistorik, Skins, Mojang / OptiFine Capes. I övrigt sparas inget annat."
+    },
+    {
+      "q": "Q: Kan min användarnamnshistorik döljas?",
+      "a": "A: Ja, eftersom LivzMC arkiverar kontots namnhistorik om Mojang raderar din namnhistorik. Använd informationen högst upp på den här sidan för att kontakta oss så är vi villiga att gömma den."
+    },
+    {
+      "q": "Q: Kan jag dölja min skinhistorik och capehistorik?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Logga in</a> och claima ditt Minecraft konto. Då kan du gömma skins / capes."
+    },
+    {
+      "q": "Q: Hur lagras OptiFine banner capes i cacheminnet??",
+      "a": "A: De lagras på samma sätt som skins och Mojang capes! Jag har en kö av OptiFine Capes och jag redigerar dem manuellt efter en viss tid.."
+    },
+    {
+      "q": "Q: Kan jag claima mitt Minecraft konto?",
+      "a": "A: Ja, du kan claima konton genom att skapa ett LivzMC konto <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">här!</a>"
+    },
+    {
+      "q": "Q: Varför cachas inte capes från LabyMod eller MinecraftCapes?",
+      "a": "A: Då måste vara <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggad</a>."
+    },
+    {
+      "q": "Q: Vad gör uppshjutning av cachelagring?",
+      "a": "A: Detta är en kontoinställning som är på från början. När du söker på ett Minecraft-konto uppdateras användaren efter att sidan har laddats, vilket rekommenderas för att förbättra prestandan.<br> Om den är inaktiverad uppdateras användaren innan sidan laddas. Du kan se minskade laddningstider om det här alternativet är aktiverat."
+    }
+  ]
+}

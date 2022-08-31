@@ -1,0 +1,15 @@
+{
+  "status": "Status",
+  "available": "Tillgänglig.",
+  "blocked": "Blockad.",
+  "time.of.availability": "Tidpunkt för tillgänglighet",
+  "username.is.blocked": "Användarnamnet är blockat.",
+  "username.is.available": "Användarnamet är tillgängligt.",
+  "username.is.not.available": "Användarnamnet är inte tillgängligt.",
+  "not.available": "Inte tillgängligt.",
+  "more.info": "Mer information*",
+  "invalid.characters": "Ogiltiga tecken.",
+  "first.searched.on": "Söktes först den:",
+  "has.skins": "Har %n skin%s cachad.",
+  "has.capes": "Har %n cape%s cachad."
+}
