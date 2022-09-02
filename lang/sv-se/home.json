@@ -1,7 +1,7 @@
 {
   "div": [
     {
-      "html": "Ifall du hittar några buggar så kan du raportera dem till våran <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a> på GitHub! Du kan också föreslå nya funktioner / ändringar!",
+      "html": "Ifall du hittar buggar så kan du rapportera dem till våran <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a> på GitHub! Du kan också föreslå nya funktioner / ändringar!",
       "belowFAQ": false
     },
     {
@@ -16,26 +16,26 @@
   "faq": [
     {
       "q": "Q: Vilken information sparas om Minecraft konton?",
-      "a": "A: Det enda som sparas är: Användarnamn, Användarnamnshistorik, Skins, Mojang / OptiFine Capes. I övrigt sparas inget annat."
+      "a": "A: Det som sparas är: Användarnamn, Användarnamnshistorik, Utseenden, Mojang / OptiFine Mantlar."
     },
     {
       "q": "Q: Kan min användarnamnshistorik döljas?",
-      "a": "A: Ja, eftersom LivzMC arkiverar kontots namnhistorik om Mojang raderar din namnhistorik. Använd informationen högst upp på den här sidan för att kontakta oss så är vi villiga att gömma den."
+      "a": "A: Ja, LivzMC arkiverar kontots namnhistorik om Mojang raderar din namnhistorik. Använd informationen högst upp på den här sidan för att kontakta oss så är vi villiga att gömma den."
     },
     {
-      "q": "Q: Kan jag dölja min skinhistorik och capehistorik?",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Logga in</a> och claima ditt Minecraft konto. Då kan du gömma skins / capes."
+      "q": "Q: Kan jag dölja min utseendeistorik och mantelhistorik?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Logga in</a> och claima ditt Minecraft konto. Då kan du gömma utseenden / mantlar."
     },
     {
-      "q": "Q: Hur lagras OptiFine banner capes i cacheminnet??",
-      "a": "A: De lagras på samma sätt som skins och Mojang capes! Jag har en kö av OptiFine Capes och jag redigerar dem manuellt efter en viss tid.."
+      "q": "Q: Hur lagras OptiFine flagg-mantlar i cacheminnet??",
+      "a": "A: De lagras på samma sätt som utseenden och Mojang mantlar! Jag har en kö av OptiFine Mantlar och jag redigerar dem manuellt efter en viss tid.."
     },
     {
       "q": "Q: Kan jag claima mitt Minecraft konto?",
       "a": "A: Ja, du kan claima konton genom att skapa ett LivzMC konto <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">här!</a>"
     },
     {
-      "q": "Q: Varför cachas inte capes från LabyMod eller MinecraftCapes?",
+      "q": "Q: Varför cachas inte mantlar från LabyMod eller MinecraftCapes?",
       "a": "A: Då måste vara <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggad</a>."
     },
     {
