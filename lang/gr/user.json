@@ -1,1 +1,20 @@
-{}
+{
+    "account.information": "Πληροφορίες Λογαριασμού",
+    "first.cached": "Πρώτα έγινε Cached",
+    "views": "Προβολές",
+    "edit": "επεξεργάσου",
+    "add": "Πρόσθεσε",
+    "pause": "Παύση",
+    "friend": "Φίλος",
+    "pending": "Εκκρεμή",
+    "unfriend": "Αφαίρεσε Φίλο",
+    "accept": "Αποδέξου",
+    "vanity.url": "Vanity URL",
+    "friends": "Φίλοι",
+    "about.me": "Σχετικά με Εμένα",
+    "skins": "Skins",
+    "minecraft.capes": "Minecraft Capes",
+    "last.seen.server": "Τελευταία ήταν Server",
+    "social.media": "Social Media",
+    "edit.profile": "Επεξεργάσου Προφίλ"
+  }
