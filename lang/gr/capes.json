@@ -1,9 +1,9 @@
 {
-  "users": "Users",
-  "download.cape": "Download Cape",
-  "view.more": "View More...",
+  "users": "Χρήστες",
+  "download.cape": "Κατέβασε Cape",
+  "view.more": "Δες Περισσότερα...",
   "tooltip.1": "%n player%s [have|has] worn this cape.",
-  "tooltip.2": "No one has this cape.",
-  "removed.or.unused": "Removed or Unused Capes",
-  "init": "The server is loading the capes, this may take a few minutes. Please wait then refresh."
+  "tooltip.2": "Κανένας δεν έχει αυτό το Cape.",
+  "removed.or.unused": "Αφαιρημένο ή Μη-χρησιμοποιημένο Cape",
+  "init": "Ο διακομοστής φορτώνει τα capes, αυτό μπορεί να πάρει λίγα λεπτά. Παρακαλώ περιμένετε και μετά κάνετε refresh."
 }

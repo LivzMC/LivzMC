@@ -1,1 +1,15 @@
-{}
+{
+    "status": "Κατάσταση",
+    "available": "Διαθέσιμος.",
+    "blocked": "Μπλοκαρισμένος.",
+    "time.of.availability": "Ώρα Διαθεσιμότητας.",
+    "username.is.blocked": "Ψευδώνυμο χρήστη είναι μπλοκαρισμένο.",
+    "username.is.available": "Ψευδώνυμο χρήστη είναι διαθέσιμο.",
+    "username.is.not.available": "Ψευδώνυμο χρήστη δεν ειναι διαθέσιμο.",
+    "not.available": "Μη Διαθέσιμο.",
+    "more.info": "Περισσότερες πληροφορίες*",
+    "invalid.characters": "Μη Έγκυροι Χαρακτήρες.",
+    "first.searched.on": "Πρώτα αναζητήθηκε στο:",
+    "has.skins": "Has %n skin%s cached.",
+    "has.capes": "Has %n cape%s cached."
+  }

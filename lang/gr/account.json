@@ -1,1 +1,26 @@
-{}
+{
+    "title": "Dashboard Λογαριασμού",
+    "information": "Πληροφορίες Λογαριασμού",
+    "id": "ID Λογαριασμού",
+    "email.address": "Διεύθυνση Email",
+    "password": "Κωδικός Πρόσβασης",
+    "permission": "Άδειες",
+    "creation.date": "Ημερομηνία Δημιουργίας",
+    "linked.accounts": "Συνδεδεμένοι Λογαριασμοί",
+    "data": "Δεδομένα Λογαριασμού",
+    "settings": "Ρυθμίσεις Λογαριασμού",
+    "settings.optifine": "Εμφάνισε OptiFine Cosmetics",
+    "settings.minecraftcapes": "Εμφάνισε MinecraftCapes Cosmetics",
+    "settings.laby": "Εμφάνισε LabyMod Cosmetics",
+    "settings.newsletter": "Ενημερωτικό Δελτίο Email",
+    "settings.seeFonts": "Δες Προσαρμοσμένες Γραμματοσειρές",
+    "settings.defercache": "Defer Caching",
+    "settings.seeAds": "Προβολή Διαφημίσεων",
+    "settings.socket": "Χρησιμοποίησε Sockets (<small>Ειδοποιήσεις σε Πραγματικό Χρόνο</small>)",
+    "more-info": "περισσότερες λεπτομέρειες",
+    "change.email": "Άλλαξε Email",
+    "change.email.description": "Θυμήσου, το να αλλάζεις το email σου θα σε αποσυνδέσει από όλα τα sessions σου!",
+    "new.email": "Νέο Email",
+    "next": "Επόμενο",
+    "email.has.been.changed": "Το Email άλλαξε!"
+  }
