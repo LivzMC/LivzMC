@@ -37,10 +37,6 @@
     {
       "q": "Q: Waarom worden LabyMod en MinecraftCapes capes niet gecached?",
       "a": "A: Je moet <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggen</a>."
-    },
-    {
-      "q": "Q: Wat doet cache uitstellen?",
-      "a": "A: Dit is een accountintelling die standaard ingeschakeld is. Als je een Minecraft account opzoekt, zal het de gebruiker updaten nadat de pagina is geladen, aanbevolen voor prestatievermogen. Als dit uitgeschakeld is, zal het de gebruiker updaten voordat de pagina is geladen.<br>Je zult kortere laadtijden ervaren als deze optie is uitgeschakeld."
     }
   ]
 }

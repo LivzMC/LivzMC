@@ -37,10 +37,6 @@
     {
       "q": "Q: Warum werden LabyMod oder MinecraftCapes nicht zwischengespeichert?",
       "a": "A: Du musst<a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">eingeloggt sein</a>."
-    },
-    {
-      "q": "Q: Was bewirkt Defer Cache?",
-      "a": "A: Dies ist eine standardm'e4'dfig aktivierte Kontoeinstellung. Wenn du ein Minecraft-Konto durchsuchst, wird der Benutzer nach dem Laden der Seite aktualisiert, was fuer eine bessere Leistung empfohlen wird. Wenn diese Option deaktiviert ist, wird der Benutzer aktualisiert, bevor die Seite geladen wird.<br>Wenn diese Option deaktiviert ist, werden moeglicherweise verk'fcrzte Ladezeiten angezeigt."
     }
   ]
 }

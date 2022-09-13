@@ -37,10 +37,6 @@
     {
       "q": "Q: Varför cachas inte mantlar från LabyMod eller MinecraftCapes?",
       "a": "A: Då måste vara <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggad</a>."
-    },
-    {
-      "q": "Q: Vad gör uppskjutning av cachelagring?",
-      "a": "A: Detta är en kontoinställning som är på från början. När du söker på ett Minecraft-konto uppdateras användaren efter att sidan har laddats, vilket rekommenderas för att förbättra prestandan.<br> Om den är inaktiverad uppdateras användaren innan sidan laddas. Du kan se minskade laddningstider om det här alternativet är aktiverat."
     }
   ]
 }
