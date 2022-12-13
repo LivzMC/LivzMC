@@ -1,0 +1,9 @@
+{
+  "users": "Hesaplar",
+  "download.cape": "Pelerini İndir",
+  "view.more": "Daha Fazla Gör...",
+  "tooltip.1": "Şu anda %n% kişi bu pelerini Kullanıyor.",
+  "tooltip.2": "Hiç kimse bu pelerini kullanmıyor.",
+  "removed.or.unused": "Kullanılmayan veya silinen pelerin.",
+  "init": "Sunucu pelerinleri yüklüyor, bu işlem birkaç dakika sürebilir. Lütfen bekleyin ve ardından yenidenden deneyin."
+}
