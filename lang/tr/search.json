@@ -1,0 +1,15 @@
+{
+  "status": "Durum",
+  "available": "Kullanılabilir.",
+  "blocked": "Engellenmiş..",
+  "time.of.availability": "Kullanılabilirlik Süresi",
+  "username.is.blocked": "İsim engellenmiş.",
+  "username.is.available": "İsim kullanılabilir.",
+  "username.is.not.available": "İsim kullanılamaz.",
+  "not.available": "Kullamılamaz.",
+  "more.info": "Daha Fazla Bilgi*",
+  "invalid.characters": "Kullanılamayan Karakter.",
+  "first.searched.on": "First searched on:",
+  "has.skins": "%n% tane Skini var.",
+  "has.capes": "%n% tane Pelerini var."
+}

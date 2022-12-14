@@ -1,0 +1,42 @@
+{
+  "div": [
+    {
+      "html": "Herhangi bir hata bulursanız, bunları yeni bölümümüze bildirebilirsiniz. <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a>! You can also suggest new features / changes!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC, Mojang AB, OptiFine, Microsoft veya adı geçen diğer şirketlerle bağlantılı değildir. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Benimle iletişime geçmek isterseniz, lütfen e-posta gönderin. <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Minecraft hesaplarıyla ilgili hangi bilgiler kaydediliyor?",
+      "a": "A: Yalnızca kaydedilen şeyler şunlardır: Kullanıcı Adı, Kullanıcı Adı Geçmişi, Görünümler, Mojang / OptiFine Capes. Gerçekten bunun dışında saklanan başka bir şey yok."
+    },
+    {
+      "q": "Q: Kullanıcı Adım Geçmişim Gizlenebilir veya Silinebilir mi?",
+      "a": "A: Evet. <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"/privacy\">Burada yapabilirsin</a>"
+    },
+    {
+      "q": "Q: Cilt geçmişimi ve Cape geçmişimi gizleyebilir miyim?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Giriş yapın </a> ve Minecraft hesabınızı talep edin, ardından derileri / pelerinleri gizleyebilirsiniz."
+    },
+    {
+      "q": "Q: OptiFine Banner özelliği nasıl önbelleğe kayade bilirsiniz?",
+      "a": "A: Görünümler ve Mojang pelerinleriyle aynı şekilde önbelleğe alınırlar! Bir OptiFine Pelerin kuyruğum var ve bunları belirli bir süre sonra manuel olarak düzenliyorum."
+    },
+    {
+      "q": "Q: Minecraft Hesabımı talep edebilir miyim?",
+      "a": "A: Evet! Bir LivzMC Hesabı oluşturarak hesap talep edebilirsiniz <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">burada!</a>"
+    },
+    {
+      "q": "Q: LabyMod veya MinecraftCapes neden önbelleğe almıyor?",
+      "a": "A: <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Giriş</a> yapmış olmak zorundasın."
+    }
+  ]
+}
