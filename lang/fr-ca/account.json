@@ -16,5 +16,11 @@
     "settings.seeFonts": "Voir Polices Personnalisées",
     "settings.defercache": "Différer la Mise en Cache",
     "settings.seeAds": "Afficher Annonces",
-    "more-info": "plus d'infos"
+    "settings.socket": "Utliser des Sockets (<small>Notifications en Temps Réel</small>)",
+    "more-info": "plus d'infos",
+    "change.email": "Modifier E-mail",
+    "change.email.description": "N'oubliez pas que la modification de votre E-mail vous déconnectera de tous vos toutes vos sessions!",
+    "new.email": "Nouveau E-mail",
+    "next": "Suivant",
+    "email.has.been.changed": "E-mail a été changé!"
 }

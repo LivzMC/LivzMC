@@ -1,7 +1,7 @@
 {
   "authors": [
     "Bisou",
-    "Zappy"
+    "ProtoZappy"
   ],
   "lang": "fr-ca",
   "nav.home": "Accueil",
@@ -29,7 +29,7 @@
   "donate": "Faire un Don",
   "close": "Fermer",
   "download": "Télécharger",
-  "verify.email": "Vérifier l'Email",
+  "verify.email": "Vérifier l'E-mail",
   "cancel": "Annuler",
   "enabled": "Activé",
   "disabled": "Désactivé",
