@@ -1,9 +1,9 @@
 {
   "random.skins": "Rasgele Skinler",
   "new.skins": "Yeni Skinler",
-  "tooltip.1": "Bu skin %n% kişi tarafından kullanılıyor",
+  "tooltip.1": "Bu skin %n kişi tarafından kullanılıyor",
   "tooltip.2": "Bu skinin modeli %s",
-  "tooltip.3": "Bu skin %s tarafından kullanılıyor",
+  "tooltip.3": "Bu skin en son %s de kullanıldı.",
   "tooltip.4": "%s skin bu oyuncunun ilkiydi.",
   "users": "Kullanılıyor",
   "skin.information": "Skin Bilgileri",
