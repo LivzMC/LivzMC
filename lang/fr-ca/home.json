@@ -5,11 +5,11 @@
       "belowFAQ": false
     },
     {
-      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "html": "LivzMC n'est pas afflié à Mojang AB, OptiFine, Microsoft ou toute autre entreprise mentionnée. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
       "belowFAQ": true
     },
     {
-      "html": "If you want to contact me, please email <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "html": "Si vou voulez me contacter, veuillez envoyer un e-mail à <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> ou rejoindre notre <a href=\"/Discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
       "belowFAQ": false
     }
   ],
