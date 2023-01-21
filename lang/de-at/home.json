@@ -1,7 +1,7 @@
 {
   "div": [
     {
-      "html": "Wenn du irgendwelche Bugs findescht, konnsch du sie an unsern <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker schickn</a>! Du konnsch auch nuie Funktionen / 'c4nderungen voarschlogn!",
+      "html": "Wenn du irgendwelche Bugs findescht, konnsch du sie an unsern <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker schickn</a>! Du konnsch auch nuie Funktionen / Änderungen voarschlogn!",
       "belowFAQ": false
     },
     {
@@ -9,14 +9,14 @@
       "belowFAQ": true
     },
     {
-      "html": "Wenn du uns kontaktieren moechtesch, send bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "html": "Wenn du uns kontaktieren moechtesch, send bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> odor betret insorn <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
       "belowFAQ": false
     }
   ],
   "faq": [
     {
       "q": "Q: Welche Informationen werdn uebor Minecraft-Kontn gschpeichort?",
-      "a": "A: Die oanzign Dinge, dia gschpeichort werdn, sind: Benutzornome, Verlouf des Benutzornomens, Skins, Mojang / OptiFine Umh'e4ng. Sonst wird wirkli nichts onderes gschpeichort."
+      "a": "A: Die oanzign Dinge, dia gschpeichort werdn, sind: Benutzornome, Verlouf des Benutzornomens, Skins, Mojang / OptiFine Umhäng. Sonst wird wirkli nichts onderes gschpeichort."
     },
     {
       "q": "Q: Konn der Verlauf meine name history ausgeblendet werdn?",
