@@ -1,1 +1,8 @@
-
+{
+  "version": "Version",
+  "online.players": "Online Spielor",
+  "last.updated": "Zuletzt aktualisiert",
+  "likes": "Server Likes",
+  "past.members": "Fruehere Servor-Mitgliador",
+  "no.users.found": "Koane Benutzor gfundn."
+}
