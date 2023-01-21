@@ -1,1 +1,9 @@
-
+{
+  "users": "Benutzor",
+  "download.cape": "Cape heruntorlodn",
+  "view.more": "Mehr onzoagn...",
+  "tooltip.1": "%n player%s [hot|hotte] dieses Cape getrogn.",
+  "tooltip.2": "Kuanor hot dieses Cape.",
+  "removed.or.unused": "Entfernte oder unbenutzte Capes",
+  "init": "Der Server laedt die Capes, dies konn ein paar Minutn dauorn. Bitte wortn und donn aktualisiern."
+}
