@@ -1,1 +1,20 @@
-
+{
+  "account.information": "Kontoinformation",
+  "first.cached": "Zuerscht gecacht",
+  "views": "Aufrufe",
+  "edit": "Beorbeitn",
+  "add": "Hinzuafügen",
+  "pause": "Stop",
+  "friend": "Freund",
+  "pending": "Ausstehend",
+  "unfriend": "Entfreundn",
+  "accept": "Onnehmen",
+  "vanity.url": "Vanity URL",
+  "friends": "Freunde",
+  "about.me": "Über mi",
+  "skins": "Skins",
+  "minecraft.capes": "Minecraft Umhäng",
+  "last.seen.server": "Zuletzt gesehener Servor",
+  "social.media": "Social Media",
+  "edit.profile": "Profil beorbeitn"
+}
