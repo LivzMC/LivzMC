@@ -1,0 +1,42 @@
+{
+  "div": [
+    {
+      "html": "Meow meow meow meow meow, meow meow meow meow meow meow meow <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"https://github.com/LivzMC/LivzMC\">Meow meow</a>! Meow meow meow meow meow meows / meows!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Meow meow meow meow meow meow, meow meow <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">meow@meow.meow.meow</a> meow meow meow <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Meow</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Meow meow meow meow meow meow Meow meows?",
+      "a": "A: Meow meows meow meow meow meow: Meow, Meow Meow, Meows, Meow / Meow Meows. Meow meow meow meow, meow meow meow meow meow meow."
+    },
+    {
+      "q": "Q: Meow Meow Meow Meow meow Meow?",
+      "a": "A: Meow. Meow LivzMC Meow meow meow meow meow meows, meow Meow meow meow meow. <a href=\"/contact\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Meow meow meow meow meow meow meow.</a>"
+    },
+    {
+      "q": "Q: Meow Meow meow meow meow meow Meow meow?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">meow meow</a> meow meow meow Meow meow, meow meow meow meows / meows."
+    },
+    {
+      "q": "Q: Meow meow Meow meow meow meow?",
+      "a": "A: Meow meow meow meow meow meow Meow meows meow! Meow meow meow meow Meow Meows meow Meow meow meow meow meow meow meow meow."
+    },
+    {
+      "q": "Q: Meow Meow meow meow Meow Meow?",
+      "a": "A: Meow! Meow meow meow meows meow meow meow LivzMC Meow <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">meow!</a>"
+    },
+    {
+      "q": "Q: Meow meown't Meow meow Meow Meows meow meow?",
+      "a": "A: Meow meow meow <a href=\"/account/login\">meowed meow</a>. meow meow meowed meow meow meow meow meow meow, meow <a href=\"mailto:kaiaf@protonmail.com\">meow meow</a>."
+    }
+  ]
+}
