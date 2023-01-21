@@ -1,0 +1,42 @@
+{
+  "div": [
+    {
+      "html": "Wenn du irgendwelche Bugs findescht, konnsch du sie an unsern <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker schickn</a>! Du konnsch auch nuie Funktionen / Änderungen voarschlogn!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC ist nit mit Mojang AB, OptiFine, Microsoft oder irgendwelchn onderen Unternehmen verbundn. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Wenn du uns kontaktieren moechtesch, send bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> odor betret insorn <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: Welche Informationen werdn uebor Minecraft-Kontn gschpeichort?",
+      "a": "A: Die oanzign Dinge, dia gschpeichort werdn, sind: Benutzornome, Verlouf des Benutzornomens, Skins, Mojang / OptiFine Umhäng. Sonst wird wirkli nichts onderes gschpeichort."
+    },
+    {
+      "q": "Q: Konn der Verlauf meine name history ausgeblendet werdn?",
+      "a": "A: Jo. Da LivzMC die name history von Accounts archiviert, konn es passiern, dass Mojang deinen Namensverlauf loescht. Verwend bitte die Informationen oben auf dieser Seite, um uns zu kontaktiern und wir sind bereit, es zu verschteckn."
+    },
+    {
+      "q": "Q: Konn i meine skin history oder meine cape history ausblendn?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Log in</a> und beonschpruche dei Minecraft-Konto, donn konnsch du Skins/Umhaenge ausblendn."
+    },
+    {
+      "q": "Q: Wia werdn die OptiFine-Capes zwischngschpeichort?",
+      "a": "A: Sie werdn auf die gleich Weise wia Skins und Mojang-Capes zwischngschpeichort! Wir hobn eine Worteschlonge von OptiFine-Capes und beorbeitn sie noch einer gewissn Zeit."
+    },
+    {
+      "q": "Q: Konn i mei Minecraft-Konto beonschpruchn?",
+      "a": "A: Jo, du konnsch Kontn beonschpruchn, indem du ein LivzMC-Konto onlegsch. <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">hier!</a>"
+    },
+    {
+      "q": "Q: Warum werdn LabyMod oder MinecraftCapes nit zwischngschpeichort?",
+      "a": "A: Du muasch<a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">eingloggt sein</a>."
+    }
+  ]
+}
