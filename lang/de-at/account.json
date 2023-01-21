@@ -1,1 +1,20 @@
-
+{
+  "title": "Konto Dashboard",
+  "information": "Konto Informationen",
+  "id": "Konto ID",
+  "email.address": "Email Adress",
+  "password": "Passwort",
+  "permission": "Berechtigungen",
+  "creation.date": "Erstellungsdatum",
+  "linked.accounts": "Verlinkte Accounts",
+  "data": "Kontodotn",
+  "settings": "Konto Einstellungen",
+  "settings.optifine": "Zoage OptiFine Cosmetics",
+  "settings.minecraftcapes": "Zoage MinecraftCapes Cosmetics",
+  "settings.laby": "Zoage LabyMod Cosmetics",
+  "settings.newsletter": "Email Newsletter",
+  "settings.seeFonts": "Zoage eigene Schriftarten",
+  "settings.defercache": "Caching aufschiabn",
+  "settings.seeAds": "Werbungen onzoagn",
+  "more-info": "mehr Informationen"
+}
