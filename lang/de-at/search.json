@@ -1,1 +1,15 @@
-
+{
+  "status": "Status",
+  "available": "Erhältlich.",
+  "blocked": "Blockiert.",
+  "time.of.availability": "Zeit bis zur Erhältlichkeit",
+  "username.is.blocked": "Benutzornome isch blockiert.",
+  "username.is.available": "Benutzornome isch erhältlich.",
+  "username.is.not.available": "Benutzornome isch nit erhältlich.",
+  "not.available": "Nit erhältlich.",
+  "more.info": "Mehr Infos*",
+  "invalid.characters": "Ungültge Zeichn.",
+  "first.searched.on": "Des erschte mol gsuacht am:",
+  "has.skins": "Hot %n skin%s gecacht.",
+  "has.capes": "Hot %n cape%s gecacht."
+}
