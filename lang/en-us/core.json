@@ -41,6 +41,7 @@
   "users": "Users",
   "title": "English",
   "error.banner.too_many_layers": "There are too many layers. This cape design will not work with OptiFine!",
+  "error.banner.mojang_pattern": "OptiFine will not render the Mojang Logo pattern (Pattern Thing)",
   "banner.colour.black": "Black",
   "banner.colour.dark_gray": "Dark Gray",
   "banner.colour.light_gray": "Light Gray",
