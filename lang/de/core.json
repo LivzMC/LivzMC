@@ -43,5 +43,5 @@
   "error.banner.too_many_layers": "Es sind zu viele Oberflächen. Dieses Umhang Muster wird nicht mit OptiFine funktionieren!",
   "error.banner.mojang_pattern": "OptiFine wird nicht das Mojang Logo Muster rendern (Muster Ding)",
   "banner.colour.black": "Schwarz",
-  "banner.colour.dark_gray": "Dunkles Grau",
+  "banner.colour.dark_gray": "Dunkles Grau"
 }
