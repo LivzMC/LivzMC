@@ -32,12 +32,16 @@
   "cancel": "Abbrechen",
   "enabled": "Aktiviert",
   "disabled": "Deaktiviert",
-  "error.must.be.logged.in": "Sie m'fcssen eingeloggt sein, um dies zu sehen.",
+  "error.must.be.logged.in": "Sie müssen eingeloggt sein, um dies zu sehen.",
   "following": "Folgt",
   "who.to.follow": "Wem man folgen sollte",
   "view": "Siehe",
   "badges": "Abzeichen",
   "badges.custom": "Eigene Abzeichen",
   "users": "Benutzer",
-  "title": "Deutsch"
+  "title": "Deutsch",
+  "error.banner.too_many_layers": "Es sind zu viele Oberflächen. Dieses Umhang Muster wird nicht mit OptiFine funktionieren!",
+  "error.banner.mojang_pattern": "OptiFine wird nicht das Mojang Logo Muster rendern (Muster Ding)",
+  "banner.colour.black": "Schwarz",
+  "banner.colour.dark_gray": "Dunkles Grau"
 }

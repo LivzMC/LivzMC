@@ -33,4 +33,8 @@
   "badges": "Barks",
   "badges.custom": "Bark Barks",
   "users": "Barks"
+  "error.banner.too_many_layers": "Bark bark bark bark bark. Bark bark bark bark bark bark bark Bark!",
+  "error.banner.mojang_pattern": "Bark bark bark bark bark Bark Bark bark (Bark Bark)",
+  "banner.colour.black": "Bark",
+  "banner.colour.dark_gray": "Bark Bark"
 }

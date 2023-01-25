@@ -39,5 +39,9 @@
   "badges": "Obzeichn",
   "badges.custom": "Eigene Obzeichn",
   "users": "Benutzor",
-  "title": "Deitsch - Österreich"
+  "title": "Deitsch - Österreich",
+  "error.banner.too_many_layers": "Es sein zu viele Oberflächn. Dieses Umhong Mustor wird nit mit OptiFine funktioniern!",
+  "error.banner.mojang_pattern": "OptiFine wird nit des Mojang Logo Mustor rendorn (Mustor Ding)",
+  "banner.colour.black": "Schworz",
+  "banner.colour.dark_gray": "Dunkls Grau"
 }

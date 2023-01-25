@@ -32,5 +32,9 @@
   "view": "Meow",
   "badges": "Meows",
   "badges.custom": "Meow Meows",
-  "users": "Meows"
+  "users": "Meows",
+  "error.banner.too_many_layers": "Meow meow meow meow meow. Meow meow meow meow meow meow meow Meow!",
+  "error.banner.mojang_pattern": "Meow meow meow meow meow Meow Meow meow (Meow Meow)",
+  "banner.colour.black": "Meow",
+  "banner.colour.dark_gray": "Meow Meow"
 }
