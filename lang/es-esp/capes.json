@@ -1,0 +1,9 @@
+{
+  "users": "Jugadores",
+  "download.cape": "Descargar capa",
+  "view.more": "Ver mas...",
+  "tooltip.1": "%n player%s [han|ha] usado esta capa.",
+  "tooltip.2": "Nadie tiene esta capa.",
+  "removed.or.unused": "Capas eliminadas o sin usar",
+  "init": "Este servidor esta cargando las capas, por favor espera y después reinicia."
+}

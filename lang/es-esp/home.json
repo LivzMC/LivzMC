@@ -1,0 +1,42 @@
+{
+  "div": [
+    {
+      "html": "Si encuentra algún error, puede informarlo a nuestro nuevo <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a>! También puede sugerir nuevas características / cambios!",
+      "belowFAQ": false
+    },
+    {
+      "html": "LivzMC is not affiliated with Mojang AB, OptiFine, Microsoft or any other companies mentioned. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "belowFAQ": true
+    },
+    {
+      "html": "Si quereis contactaros conmigo por favor por Email. <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> o uniros a <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "belowFAQ": false
+    }
+  ],
+  "faq": [
+    {
+      "q": "Q: ¿Qué información se guarda con respecto a las cuentas de Minecraft?",
+      "a": "A: Las únicas cosas que se guardan son: Nombre de usuario, Historial de nombres de usuario, Skins, Capas de Mojang / OptiFine... Realmente aparte de eso, no hay nada más almacenado."
+    },
+    {
+      "q": "Q: Mi nombre de usuario puede ser ocultado o eliminado?",
+      "a": "A: Si. <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"/privacy\">Puedes hacerlo aqui</a>"
+    },
+    {
+      "q": "Q: Puedo esconder el historial de mis skins/capas?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Inicia sesion</a> y reclama tu cuenta de minecraft, despues podrás ocultar tus skins / capas."
+    },
+    {
+      "q": "Q: ¿Cómo se almacenan en caché las capas de banner OptiFine?",
+      "a": "A: Se almacenan en caché de la misma manera que las skins y las capas de Mojang, Tengo una lista de Capas de OptiFine y las edito manualmente después de un tiempo determinado."
+    },
+    {
+      "q": "Q: Yo puedo claimear mi cuenta de Minecraft?",
+      "a": "A: ¡Sí! Puede reclamar cuentas creando una cuenta de LivzMC <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">here!</a>"
+    },
+    {
+      "q": "Q: ¿Por qué LabyMod o las capas de Minecraft no se almacenan en caché?",
+      "a": "A: Tienes que ser <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">logged in</a>."
+    }
+  ]
+}
