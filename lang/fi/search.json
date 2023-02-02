@@ -1,0 +1,15 @@
+{
+  "status": "Tila",
+  "available": "Vapaana.",
+  "blocked": "Estetty.",
+  "time.of.availability": "Vapautumisaika",
+  "username.is.blocked": "Käyttäjänimi on estetty.",
+  "username.is.available": "Käyttäjänimi on vapaana.",
+  "username.is.not.available": "Käyttäjänimi ei ole vapaana.",
+  "not.available": "Ei saatavilla.",
+  "more.info": "Lisää tietoa*",
+  "invalid.characters": "Laittomia merkkejä.",
+  "first.searched.on": "Ensimmäisenä haettu:",
+  "has.skins": "Omistaa %n tallennettua skiniä.",
+  "has.capes": "Omistaa %n tallennettua viittaa."
+}
