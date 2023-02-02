@@ -1,0 +1,9 @@
+{
+  "users": "Käyttäjät",
+  "download.cape": "Lataa viitta",
+  "view.more": "Näytä lisää...",
+  "tooltip.1": "%n pelaajaa on käyttänyt tätä viittaa.",
+  "tooltip.2": "Kukaan ei omista tätä viittaa.",
+  "removed.or.unused": "Poistetut tai käyttämättömät viitat",
+  "init": "Palvelin lataa viittoja, tämä saattaa kestää muutama minuuttia. Odota ja sitten päivitä sivu."
+}
