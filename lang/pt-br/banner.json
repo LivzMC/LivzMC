@@ -1,0 +1,21 @@
+{
+  "error.too_many_layers": "Há muitas camadas. Este design de capa não funcionará com OptiFine!",
+  "error.mojang_pattern": "OptiFine não renderizará o padrão da logo da Mojang",
+  "colour.black": "Preto",
+  "colour.dark_gray": "Cinza Escuro",
+  "colour.light_gray": "Cinza Claro",
+  "colour.white": "Branco",
+  "colour.pink": "Rosa",
+  "colour.light_majenta": "Roxo Claro",
+  "colour.majenta": "Roxo",
+  "colour.blue": "Azul",
+  "colour.cyan": "Ciano",
+  "colour.light_blue": "Azul Claro",
+  "colour.green": "Verde",
+  "colour.light_green": "Verde Claro",
+  "colour.yellow": "Amarelo",
+  "colour.orange": "Laranja",
+  "colour.brown": "Marron",
+  "colour.red": "Vermelho",
+  "colour.transparent": "Transparente"
+}

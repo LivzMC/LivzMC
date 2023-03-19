@@ -1,0 +1,21 @@
+{
+  "error.too_many_layers": "Tiene demasiados niveles, esta capa no funcionará en Optifine!",
+  "error.mojang_pattern": "OptiFine no representará el patrón del logotipo de Mojang (pattern thing)",
+  "colour.black": "Negro",
+  "colour.dark_gray": "Gris Oscuro",
+  "colour.light_gray": "Gris Claro",
+  "colour.white": "Blanco",
+  "colour.pink": "Rosa",
+  "colour.light_majenta": "Morado Claro",
+  "colour.majenta": "Morado",
+  "colour.blue": "Azul",
+  "colour.cyan": "Cian",
+  "colour.light_blue": "Azul Claro",
+  "colour.green": "Verde",
+  "colour.light_green": "Verde Claro",
+  "colour.yellow": "Amarillo",
+  "colour.orange": "Naranja",
+  "colour.brown": "Marrón",
+  "colour.red": "Rojo",
+  "colour.transparent": "Transparente"
+}
