@@ -1,6 +1,7 @@
+
 {
   "title": "Painel da Conta",
-  "information": "Informções da Conta",
+  "information": "Informações da Conta",
   "id": "ID da Conta",
   "email.address": "Endereço de E-mail",
   "password": "Senha",
@@ -9,8 +10,17 @@
   "linked.accounts": "Contas Vinculadas",
   "data": "Dados da Conta",
   "settings": "Configurações da Conta",
-  "settings.optifine": "Mostrar cosméticos do Optifine",
-  "settings.minecraftcapes": "Mostrar cosméticos do MinecraftCapes",
+  "settings.optifine": "Mostrar cosméticos da Optifine",
+  "settings.minecraftcapes": "Mostrar cosméticos da MinecraftCapes",
   "settings.laby": "Mostrar cosméticos do LabyMod",
-  "settings.newsletter": "Receber newsletter"
+  "settings.newsletter": "Receber Novas Nóticias",
+  "settings.seeFonts": "Ver Fontes Personalizadas",
+  "settings.defercache": "Adiar Armazenamento em Cache",
+  "settings.seeAds": "Exibir Anúncios",
+  "more-info": "Mais Informações",
+  "change.email": "Mudar E-mail",
+  "change.email.description": "Lembre-se de que se alterar seu e-mail, o desconectaria de todas as suas sessões!",
+  "new.email": "Novo E-mail",
+  "next": "Próximo",
+  "email.has.been.changed": "O e-mail foi alterado!"
 }
