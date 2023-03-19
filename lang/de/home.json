@@ -1,7 +1,7 @@
 {
   "div": [
     {
-      "html": "Wenn du irgendwleche Bugs findest, kannst du sie an unseren <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker schicken</a>! Du kannst auch neue Funktionen / 'c4nderungen vorschlagen!",
+      "html": "Wenn du irgendwelche Bugs findest, kannst du sie an unseren neuen <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Fehler-Tracker</a> schicken! Du kannst auch neue Features / Änderungen vorschlagen!",
       "belowFAQ": false
     },
     {
@@ -9,34 +9,34 @@
       "belowFAQ": true
     },
     {
-      "html": "Wenn du uns kontaktieren moechtest, sende bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "html": "Wenn du uns kontaktieren möchtest, sende bitte eine E-Mail an <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> or join our <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
       "belowFAQ": false
     }
   ],
   "faq": [
     {
-      "q": "Q: Welche Informationen werden ueber Minecraft-Konten gespeichert?",
-      "a": "A: Die einzigen Dinge, die gespeichert werden, sind: Benutzername, Verlauf des Benutzernamens, Skins, Mojang / OptiFine Umh'e4nge. Sonst wird wirklich nichts anderes gespeichert."
+      "q": "Q: Welche Informationen werden über Minecraft-Konten gespeichert?",
+      "a": "A: Die einzigen Informationen, die gespeichert werden, sind: Benutzernamen, Benutzernamenverlauf, Skins, Mojang / OptiFine Capes. Ansonsten wird nichts anderes gespeichert."
     },
     {
-      "q": "Q: Kann der Verlauf meine name history ausgeblendet werden?",
-      "a": "A: Ja. Da LivzMC die name history von Accounts archiviert, kann es passieren, dass Mojang deinen Namensverlauf loescht. Verwende bitte die Informationen oben auf dieser Seite, um uns zu kontaktieren und wir sind bereit, es zu verstecken."
+      "q": "Q: Kann der Verlauf meines Benutzernamenverlaufs ausgeblendet oder gelöscht werden?",
+      "a": "A: Ja. <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"/privacy\">Du kannst das hier machen</a>"
     },
     {
-      "q": "Q: Kann ich meine skin history oder meine cape history ausblenden?",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Log in</a> und beanspruche dein Minecraft-Konto, dann kannst du Skins/Umhaenge ausblenden."
+      "q": "Q: Kann ich meinen Skinverlauf oder Capeverlauf ausblenden?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Logge dich ein</a> und verbinde dein Minecraft-Profil, dann kannst du Skins / Capes ausblenden."
     },
     {
-      "q": "Q: Wie werden die OptiFine-Capes zwischengespeichert?",
-      "a": "A: Sie werden auf die gleiche Weise wie Skins und Mojang-Capes zwischengespeichert! Wir haben eine Warteschlange von OptiFine-Capes und bearbeiten sie nach einer gewissen Zeit."
+      "q": "Q: Wie werden die OptiFine-Capes gespeichert?",
+      "a": "A: Sie werden auf die gleiche Weise wie Skins und Mojang-Capes gespeichert! Wir haben eine Warteschlange von OptiFine-Capes und bearbeiten sie nach einer gewissen Zeit."
     },
     {
-      "q": "Q: Kann ich mein Minecraft-Konto beanspruchen?",
-      "a": "A: Ja, du kannst Konten beanspruchen, indem du ein LivzMC-Konto anlegst. <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">here!</a>"
+      "q": "Q: Kann ich mein Minecraft-Profil verbinden?",
+      "a": "A: Ja, du kannst Profile verbinden, indem du ein LivzMC-Profil <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">hier</a> anlegst!"
     },
     {
-      "q": "Q: Warum werden LabyMod oder MinecraftCapes nicht zwischengespeichert?",
-      "a": "A: Du musst<a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">eingeloggt sein</a>."
+      "q": "Q: Warum werden LabyMod oder MinecraftCapes nicht gespeichert?",
+      "a": "A: Du musst <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">eingeloggt sein</a>."
     }
   ]
 }
