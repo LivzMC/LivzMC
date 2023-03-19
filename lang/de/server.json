@@ -1,8 +1,8 @@
 {
   "version": "Version",
-  "online.players": "Online Players",
+  "online.players": "Online Spieler:innen",
   "last.updated": "Zuletzt aktualisiert",
   "likes": "Server Likes",
-  "past.members": "Fruehere Server-Mitglieder",
-  "no.users.found": "Keine Benutzer gefunden."
+  "past.members": "Frühere Server-Mitglieder:innen",
+  "no.users.found": "Keine Spieler:innen gefunden."
 }
