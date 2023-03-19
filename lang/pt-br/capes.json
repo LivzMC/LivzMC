@@ -1,9 +1,9 @@
 {
-  "users": "Users",
-  "download.cape": "Download Cape",
-  "view.more": "View More...",
-  "tooltip.1": "%n player%s [have|has] worn this cape.",
-  "tooltip.2": "No one has this cape.",
-  "removed.or.unused": "Removed or Unused Capes",
-  "init": "The server is loading the capes, this may take a few minutes. Please wait then refresh."
+  "users": "Usuários",
+  "download.cape": "Baixar Capa",
+  "view.more": "Veja mais...",
+  "tooltip.1": "%n player%s tem usado essa capa.",
+  "tooltip.2": "Ninguém tem essa capa.",
+  "removed.or.unused": "Capas removidas ou não utilizadas",
+  "init": "O servidor está carregando as capas, isso pode demorar alguns minutos. Por favor, aguarde!"
 }
