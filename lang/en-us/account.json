@@ -14,13 +14,8 @@
   "settings.laby": "Show LabyMod Cosmetics",
   "settings.newsletter": "Email Newsletter",
   "settings.seeFonts": "See Custom Fonts",
-  "settings.defercache": "Defer Caching",
-  "settings.seeAds": "View Ads",
-  "settings.socket": "Use Sockets (<small>Real Time Notifications</small>)",
-  "more-info": "more info",
   "change.email": "Change Email",
   "change.email.description": "Remember, changing your email would log you out of all your sessions!",
   "new.email": "New Email",
-  "next": "Next",
   "email.has.been.changed": "Email has been changed!"
 }
