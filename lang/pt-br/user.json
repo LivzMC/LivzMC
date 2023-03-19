@@ -1,1 +1,20 @@
-{}
+{
+  "account.information": "Informações da Conta",
+  "first.cached": "Primeiro em cache",
+  "views": "Views",
+  "edit": "Editar",
+  "add": "Adicionar",
+  "pause": "Pausar",
+  "friend": "Amigo",
+  "pending": "Pendente",
+  "unfriend": "Tirar Amizade",
+  "accept": "Aceitar",
+  "vanity.url": "URL de Vaidade",
+  "friends": "Amigos",
+  "about.me": "Sobre mim",
+  "skins": "Skins",
+  "minecraft.capes": "Capas do Minecraft",
+  "last.seen.server": "Último Servidor Visto",
+  "social.media": "Mídia Social",
+  "edit.profile": "Editar Perfil"
+}
