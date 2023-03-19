@@ -14,13 +14,8 @@
   "settings.laby": "Zeige LabyMod Cosmetics",
   "settings.newsletter": "Email Newsletter",
   "settings.seeFonts": "Zeige benutzerdefinierte Schriftarten",
-  "settings.defercache": "Caching aufschieben",
-  "settings.seeAds": "Werbungen anzeigen",
-  "settings.socket": "Nutze Sockets (<small>Echtzeit Benachrichtigungen</small>)",
-  "more-info": "mehr Informationen",
   "change.email": "Email ändern",
   "change.email.description": "Merk dir, das Ändern deiner Email wird dich aus allen Sitzungen abmelden!",
-  "new.email": "Neue Email",
-  "next": "Weiter",
+  "new.email": "Neue Email", 
   "email.has.been.changed": "Email wurde geändert!"
 }
