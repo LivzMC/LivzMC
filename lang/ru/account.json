@@ -1,0 +1,21 @@
+{
+  "title": "Панель управление учетной записью",
+  "information": "Информация о учетной записи",
+  "id": "ID учетной записи",
+  "email.address": "Электронная почта",
+  "password": "Пароль",
+  "permission": "Права",
+  "creation.date": "Дата создания",
+  "linked.accounts": "Привязанные аккаунты",
+  "data": "Данные учетной записи",
+  "settings": "Настройки учетной записи",
+  "settings.optifine": "Показать косметику OptiFine",
+  "settings.minecraftcapes": "Показать косметику MinecraftCapes",
+  "settings.laby": "Показать косметику LabyMod",
+  "settings.newsletter": "Рассылка по электронной почте",
+  "settings.seeFonts": "Посмотреть пользовательские шрифты",
+  "change.email": "Поменять адрес электронной почты",
+  "change.email.description": "Помните, что изменение электронной почты приведет к выходу из всех ваших сессий!",
+  "new.email": "Новая электронная почта",
+  "email.has.been.changed": "Электронная почта была изменена"
+}
