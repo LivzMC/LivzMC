@@ -1,0 +1,15 @@
+{
+  "status": "Статус",
+  "available": "Доступно.",
+  "blocked": "Заблокированный.",
+  "time.of.availability": "Время доступности",
+  "username.is.blocked": "Имя пользователя заблокированно.",
+  "username.is.available": "Имя пользователя доступно.",
+  "username.is.not.available": "Имя пользователя недоступно.",
+  "not.available": "Недоступно.",
+  "more.info": "Подробнее*",
+  "invalid.characters": "Недопустимые символы.",
+  "first.searched.on": "Первый поиск на:",
+  "has.skins": "Одел %n скин%ов.",
+  "has.capes": "Одел %n плащ%ей."
+}
