@@ -1,1 +1,20 @@
-{}
+{
+    "account.information": "Account informatie",
+    "first.cached": "Voor het eerst gecached",
+    "views": "Keer bekeken",
+    "edit": "aanpassen",
+    "add": "Toevoegen",
+    "pause": "Pauze",
+    "friend": "Vriend",
+    "pending": "In behandeling",
+    "unfriend": "Ontvrienden",
+    "accept": "Accepteer",
+    "vanity.url": "Vanity-URL",
+    "friends": "Vrienden",
+    "about.me": "Over mij",
+    "skins": "Skins",
+    "minecraft.capes": "Minecraft capes",
+    "last.seen.server": "Laatst gezien op server",
+    "social.media": "Sociale media",
+    "edit.profile": "Profiel aanpassen"
+  }

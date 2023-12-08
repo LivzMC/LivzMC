@@ -1,8 +1,8 @@
 {
   "version": "Versie",
-  "online.players": "Online Spelers",
-  "last.updated": "Laatst Geupdate",
+  "online.players": "Online spelers",
+  "last.updated": "Laatst geupdate",
   "likes": "Server Vind-Ik-Leuks",
-  "past.members": "Vorige Serverleden",
-  "no.users.found": "Geen Gebruikers Gevonden."
+  "past.members": "Vorige serverleden",
+  "no.users.found": "Geen gebruikers gevonden."
 }
