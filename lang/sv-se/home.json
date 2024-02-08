@@ -36,7 +36,7 @@
     },
     {
       "q": "Q: Varför cachas inte mantlar från LabyMod eller MinecraftCapes?",
-      "a": "A: Då måste vara <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggad</a>."
+      "a": "A: Du måste vara <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">inloggad</a>."
     }
   ]
 }
