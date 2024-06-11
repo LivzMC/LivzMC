@@ -1,0 +1,21 @@
+{
+  "title": "Account Dashboard",
+  "information": "Account Information",
+  "id": "Account ID",
+  "email.address": "Email address",
+  "password": "Password",
+  "permission": "Permissions",
+  "creation.date": "Creation Date",
+  "linked.accounts": "Linked Accounts",
+  "data": "Account Data",
+  "settings": "Account Settings",
+  "settings.optifine": "Show OptiFine Cosmetics",
+  "settings.minecraftcapes": "Show MinecraftCapes Cosmetics",
+  "settings.laby": "Show LabyMod Cosmetics",
+  "settings.newsletter": "Email Newsletter",
+  "settings.seeFonts": "See Custom Fonts",
+  "change.email": "Change Email",
+  "change.email.description": "Remember, changing your email would log you out of all your sessions!",
+  "new.email": "New Email",
+  "email.has.been.changed": "Email has been changed!"
+}
