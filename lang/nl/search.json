@@ -1,1 +1,15 @@
-{}
+{
+    "status": "Status",
+    "available": "Beschikbaar.",
+    "blocked": "Geblokkeerd.",
+    "time.of.availability": "Tijd van beschikbaarheid",
+    "username.is.blocked": "Gebruiksernaam is geblokkeerd.",
+    "username.is.available": "Gebruikersnaam is beschikbaar.",
+    "username.is.not.available": "Gebruikersnaam is niet beschikbaar.",
+    "not.available": "Niet beschikbaar.",
+    "more.info": "Meer informatie*",
+    "invalid.characters": "Invalide tekens.",
+    "first.searched.on": "Voor het eerst gezocht op:",
+    "has.skins": "Heeft %n skin%s gecached.",
+    "has.capes": "Heeft %n cape%s gecached."
+  }
