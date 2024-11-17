@@ -1,0 +1,15 @@
+{
+  "status": "Status",
+  "available": "Dostupné.",
+  "blocked": "Zablokováné.",
+  "time.of.availability": "Èas Dostupnosti",
+  "username.is.blocked": "Uživatelské jméno je zablokované.",
+  "username.is.available": "Uživatelské jméno je dostupné.",
+  "username.is.not.available": "Uživatelské jméno je nedostupné.",
+  "not.available": "Nedostupné.",
+  "more.info": "Více Informací*",
+  "invalid.characters": "Neplatné Znaky.",
+  "first.searched.on": "Porpvé hledané na:",
+  "has.skins": "Má %n skin%s uloženo.",
+  "has.capes": "Má %n cape%s uloženo."
+}

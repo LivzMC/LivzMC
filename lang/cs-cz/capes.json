@@ -1,0 +1,9 @@
+{
+  "users": "Uivatelé",
+  "download.cape": "Stáhnout Pláš",
+  "view.more": "Vidìt více...",
+  "tooltip.1": "%n player%s [nosí|má] nosí tento pláš.",
+  "tooltip.2": "Nikdo nemá tento pláš.",
+  "removed.or.unused": "Odstranìné nebo Nevyuité Pláštì",
+  "init": "Server naèítá pláštì, toto mùeš pár minut trvat. Prosím chvíli poèkej, poté stránku aktulizuj."
+}

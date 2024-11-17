@@ -1,0 +1,21 @@
+{
+  "title": "Hlavní Panel Úètu",
+  "information": "Informace o Úètu",
+  "id": "ID Úètu",
+  "email.address": "Emailová adresa",
+  "password": "Heslo",
+  "permission": "Permise",
+  "creation.date": "Datum Vytvoøení",
+  "linked.accounts": "Propojené Úèty",
+  "data": "Data Úètu",
+  "settings": "Nastavení Úètu",
+  "settings.optifine": "Ukázat OptiFine Kosmetiky",
+  "settings.minecraftcapes": "Ukázat MinecraftCapes Kosmetiky",
+  "settings.laby": "Ukázat LabyMod Kosmetiky",
+  "settings.newsletter": "Email Novinky",
+  "settings.seeFonts": "Vidìt vlastní Fonty",
+  "change.email": "Zmìnit Email",
+  "change.email.description": "Pamatuj, zmìna emailu tì odhlásí všude kdy si byl pøedtím pøihlášen!",
+  "new.email": "Nový Email",
+  "email.has.been.changed": "Email byl zmìnìn!"
+}
