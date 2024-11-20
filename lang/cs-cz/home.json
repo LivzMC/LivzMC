@@ -1,42 +1,42 @@
 {
   "div": [
     {
-      "html": "Pokud najde&#353; n&#283;jakou chybu, m&#367;&#382;e&#353; j&iacute; nahl&aacute;sit na n&aacute;&#353; <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a>! Tak&eacute; n&aacute;m m&#367;&#382;e&#353; doporu&#269;it nov&eacute; funkce / zm&#283;ny!",
+      "html": "Pokud najdeš nìjakou chybu, mùžeš jí nahlásit na náš <a href=\"https://github.com/LivzMC/LivzMC\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Issue tracker</a>! Také nám mùžeš doporuèit nové funkce / zmìny!",
       "belowFAQ": false
     },
     {
-      "html": "LivzMC nen&iacute; spojeno s Mojang AB, OptiFine, Microsoft nebo spojeny s jin&yacute;mi zm&iacute;n&#283;n&yacute;mi firmami. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> © Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> © sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> © LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> © james090500</span>",
+      "html": "LivzMC není spojeno s Mojang AB, OptiFine, Microsoft nebo spojeny s jinými zmínìnými firmami. <span class=\"font-semibold italic\"><br> <a href=\"https://minecraft.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">Minecraft</a> Â© Mojang <br> <a href=\"https://optifine.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">OptiFine</a> Â© sp614x <br> <a href=\"https://labymod.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">LabyMod</a> Â© LabyMedia GmbH <br> <a href=\"https://minecraftcapes.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" target=\"__\">MinecraftCapes</a> Â© james090500</span>",
       "belowFAQ": true
     },
     {
-      "html": "Pokud n&aacute;s pot&#345;ebuje&#353; kontaktovat, pros&iacute;m napi&#353; na email <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> nebo se p&#345;ipoj na n&aacute;&#353; <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
+      "html": "Pokud nás potøebuješ kontaktovat, prosím napiš na email <a href=\"mailto:support@livzmc.net\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">support@livzmc.net</a> nebo se pøipoj na náš <a href=\"/discord\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Discord</a>!",
       "belowFAQ": false
     }
   ],
   "faq": [
     {
-      "q": "Q: Jak&eacute; informace se ukl&aacute;daj&iacute; u Minecraft &uacute;&#269;t&#367;?",
-      "a": "A: Jedin&eacute; v&#283;ci kter&eacute; se ukl&aacute;daj&iacute; jsou: U&#382;ivatelsk&eacute; Jm&eacute;no, Historie U&#382;ivatelsk&eacute;ho Jm&eacute;na, Skiny, Mojang/OptiFine Pl&aacute;&#353;t&#283;. Krom&#283; t&#283;chto v&#283;c&iacute;, se nic jin&eacute;ho neukl&aacute;d&aacute;."
+      "q": "Q: Jaké informace se ukládají u Minecraft úètù?",
+      "a": "A: Jediné vìci které se ukládají jsou: Uživatelské Jméno, Historie Uživatelského Jména, Skiny, Mojang/OptiFine Pláštì. Kromì tìchto vìcí, se nic jiného neukládá."
     },
     {
-      "q": "Q: M&#367;&#382;e b&yacute;t moje Historie U&#382;ivatelsk&yacute;ch Jmen Schov&aacute;na nebo Smaz&aacute;na?",
-      "a": "A: Ano. <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"/privacy\">M&#367;&#382;e&#353; to ud&#283;lat zde.</a>"
+      "q": "Q: Mùže být moje Historie Uživatelských Jmen Schována nebo Smazána?",
+      "a": "A: Ano. <a class=\"text-indigo-600 dark:text-indigo-500 hover:underline\" href=\"/privacy\">Mùžeš to udìlat zde.</a>"
     },
     {
-      "q": "Q: M&#367;&#382;u schovat moj&iacute; historii skin&#367; a pl&aacute;&#353;&#357;&#367;?",
-      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">P&#345;ihla&#353; se</a> a p&#345;ivlastni si sv&#367;j Minecraft &uacute;&#269;et, pot&eacute; m&#367;&#382;e&#353; schovat skiny/pl&aacute;&#353;t&#283;."
+      "q": "Q: Mùžu schovat mojí historii skinù a plášù?",
+      "a": "A: <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">Pøihlaš se</a> a pøivlastni si svùj Minecraft úèet, poté mùžeš schovat skiny/pláštì."
     },
     {
-      "q": "Q: Jak se OptiFine banner pl&aacute;&#353;t&#283; ukl&aacute;daj&iacute;?",
-      "a": "A: Jsou ukl&aacute;d&aacute;ny stejnou cestou jako Skiny a Mojang pl&aacute;&#353;t&#283;! Je zde fronta OptiFine Pl&aacute;&#353;&#357;&#367; a<br /> jsou manu&aacute;ln&#283; upravov&aacute;ny a p&#345;i&#345;azov&aacute;ny za n&#283;jak&yacute; &#269;as."
+      "q": "Q: Jak se OptiFine banner pláštì ukládají?",
+      "a": "A: Jsou ukládány stejnou cestou jako Skiny a Mojang pláštì! Je zde fronta OptiFine Plášù a jsou manuálnì upravovány a pøiøazovány za nìjaký èas."
     },
     {
-      "q": "Q: M&#367;&#382;u si p&#345;ivlastnit Minecraft &Uacute;&#269;et?",
-      "a": "A: Ano! M&#367;&#382;e&#353; si p&#345;ivlastnit &uacute;&#269;et t&iacute;m &#382;e si vytvo&#345;&iacute;te LivzMC &Uacute;&#269;et <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">zde!</a>"
+      "q": "Q: Mùžu si pøivlastnit Minecraft Úèet?",
+      "a": "A: Ano! Mùžeš si pøivlastnit úèet tím že si vytvoøíte LivzMC Úèet <a href=\"/account\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">zde!</a>"
     },
     {
-      "q": "Q: Pro&#269; se LabyMod nebo MinecraftCapes neukl&aacute;daj&iacute;?",
-      "a": "A: Mus&iacute;&#353; b&yacute;t <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">p&#345;ihl&aacute;&#353;en</a>."
+      "q": "Q: Proè se LabyMod nebo MinecraftCapes neukládají?",
+      "a": "A: Musíš být <a href=\"/account/login\" class=\"text-indigo-600 dark:text-indigo-500 hover:underline\">pøihlášen</a>."
     }
   ]
 }

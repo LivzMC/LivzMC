@@ -1,9 +1,9 @@
 {
-  "users": "U&#382;ivatel&eacute;",
-  "download.cape": "St&aacute;hnout Pl&aacute;&#353;&#357;",
-  "view.more": "Vid&#283;t v&iacute;ce...",
-  "tooltip.1": "%n player%s [m&aacute;|m&#283;lo] tento pl&aacute;&#353;&#357;.",
-  "tooltip.2": "Nikdo nem&aacute; tento pl&aacute;&#353;&#357;.",
-  "removed.or.unused": "Odstran&#283;n&eacute; nebo Nevyu&#382;it&eacute; Pl&aacute;&#353;t&#283;",
-  "init": "Server na&#269;&iacute;t&aacute; pl&aacute;&#353;t&#283;, toto m&#367;&#382;e&#353; p&aacute;r minut trvat. Pros&iacute;m chv&iacute;li po&#269;kej, pot&eacute; str&aacute;nku aktulizuj."
+  "users": "Uživatelé",
+  "download.cape": "Stáhnout Pláš",
+  "view.more": "Vidìt více...",
+  "tooltip.1": "%n hrá&#269;ù [má|mají] tento pláš.",
+  "tooltip.2": "Nikdo nemá tento pláš.",
+  "removed.or.unused": "Odstranìné nebo Nevyužité Pláštì",
+  "init": "Server na&#269;ítá pláštì, toto mùžeš pár minut trvat. Prosím chvíli po&#269;kej, poté stránku aktulizuj."
 }

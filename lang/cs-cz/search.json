@@ -1,15 +1,15 @@
 {
   "status": "Status",
-  "available": "Dostupn&eacute;.",
-  "blocked": "Zablokov&aacute;n&eacute;.",
+  "available": "Dostupné.",
+  "blocked": "Zablokované.",
   "time.of.availability": "&#268;as Dostupnosti",
-  "username.is.blocked": "U&#382;ivatelsk&eacute; jm&eacute;no je zablokovan&eacute;.",
-  "username.is.available": "U&#382;ivatelsk&eacute; jm&eacute;no je dostupn&eacute;.",
-  "username.is.not.available": "U&#382;ivatelsk&eacute; jm&eacute;no je nedostupn&eacute;.",
-  "not.available": "Nedostupn&eacute;.",
-  "more.info": "V&iacute;ce Informac&iacute;*",
-  "invalid.characters": "Neplatn&eacute; Znaky.",
-  "first.searched.on": "Poprv&eacute; hledan&eacute; na:",
-  "has.skins": "M&aacute; %n skin%&#367; ulo�eno.",
-  "has.capes": "M&aacute; %n pl&aacute;&#353;&#357;%&#367; ulo�eno."
+  "username.is.blocked": "Uživatelské jméno je zablokované.",
+  "username.is.available": "Uživatelské jméno je dostupné.",
+  "username.is.not.available": "Uživatelské jméno je nedostupné.",
+  "not.available": "Nedostupné.",
+  "more.info": "Více Informací*",
+  "invalid.characters": "Neplatné Znaky.",
+  "first.searched.on": "Porpvé hledané na:",
+  "has.skins": "Má %n skin%s uloženo.",
+  "has.capes": "Má %n cape%s uloženo."
 }
